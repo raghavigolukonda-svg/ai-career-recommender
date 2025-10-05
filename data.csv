@@ -1,0 +1,1001 @@
+Name,Gender,Degree,Domain,Skills,PreferredRole,Score
+Varsha Patel,Female,B.Tech ECE,Computer Vision,"TensorFlow, Keras, PyTorch",Data Analyst,95
+Divya Sharma,Female,M.Sc Data Science,Web Development,"OpenCV, CNN, Deep Learning",AI Engineer,63
+Charisma Das,Female,B.Tech CSE,Data Analytics,"Python, Flask, API Development",AI Engineer,71
+Kiran Sharma,Male,M.Sc Data Science,Computer Vision,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,73
+Lavanya Das,Female,B.Tech CSE,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,89
+Sindhu Sharma,Female,B.Sc Statistics,NLP,"NLTK, SpaCy, TextBlob",Frontend Developer,72
+Sindhu Singh,Female,B.Tech CSE,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Analyst,72
+Navya Singh,Female,B.Tech IT,Web Development,"NLTK, SpaCy, TextBlob",Backend Developer,69
+Harini Kumar,Female,B.Tech CSE,Data Analytics,"NLTK, SpaCy, TextBlob",Data Scientist,60
+Arjun,Male,B.Tech CSE,Computer Vision,"SQL, Power BI, Excel",AI Engineer,89
+Bala Singh,Female,B.Tech CSE,Deep Learning,"OpenCV, CNN, Deep Learning",ML Engineer,62
+Joshi Singh,Female,M.Sc Data Science,Machine Learning,"OpenCV, CNN, Deep Learning",Data Analyst,72
+Preethi Sharma,Female,B.Tech IT,NLP,"Python, Pandas, NumPy, Matplotlib",Data Analyst,99
+Shreya Reddy,Female,B.Sc Statistics,Computer Vision,"Python, Pandas, NumPy, Matplotlib",ML Engineer,97
+Rohit Reddy,Male,B.Tech IT,Deep Learning,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,60
+Sindhu Singh,Female,B.Tech CSE,Data Analytics,"Data Visualization, Tableau, Plotly",Data Analyst,88
+Deepika Kumar,Female,B.Tech ECE,Web Development,"TensorFlow, Keras, PyTorch",ML Engineer,79
+Sravani,Female,B.Tech IT,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Analyst,99
+Anusha Sharma,Female,MCA,Web Development,"Data Visualization, Tableau, Plotly",Data Analyst,98
+Vikram Das,Male,B.Tech CSE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,81
+Suma Das,Female,B.Tech IT,Deep Learning,"Data Visualization, Tableau, Plotly",AI Engineer,81
+Keerthi Kumar,Female,B.Tech ECE,Cybersecurity,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,93
+Vikram Singh,Male,B.Tech IT,Web Development,"HTML, CSS, JavaScript, React",ML Engineer,77
+Navya Reddy,Female,B.Com Computers,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Scientist,86
+Yamini Singh,Female,B.Tech IT,Data Analytics,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,76
+Keerthi Reddy,Female,B.Sc Statistics,Computer Vision,"OpenCV, CNN, Deep Learning",ML Engineer,83
+Sravani Kumar,Female,B.Com Computers,Machine Learning,"Python, Flask, API Development",ML Engineer,76
+Harsha Singh,Male,B.Tech IT,Web Development,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,60
+Harini Das,Female,B.Com Computers,Computer Vision,"NLTK, SpaCy, TextBlob",Frontend Developer,72
+Nisha Patel,Female,B.Com Computers,Deep Learning,"Python, Flask, API Development",ML Engineer,94
+Sravani Kumar,Female,B.Tech IT,Cybersecurity,"TensorFlow, Keras, PyTorch",ML Engineer,77
+Arjun,Male,B.Sc Statistics,Data Analytics,"Python, Flask, API Development",AI Engineer,84
+Kiran Kumar,Male,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,91
+Varsha,Female,B.Tech IT,NLP,"NLTK, SpaCy, TextBlob",ML Engineer,76
+Vamsi Singh,Male,B.Tech ECE,Computer Vision,"Python, Flask, API Development",Data Scientist,72
+Preethi Patel,Female,B.Tech ECE,NLP,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,81
+Manoj Sharma,Male,B.Com Computers,Cybersecurity,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,69
+Anusha Reddy,Female,B.Com Computers,Machine Learning,"Data Visualization, Tableau, Plotly",Backend Developer,74
+Charisma Patel,Female,M.Sc Data Science,Machine Learning,"Data Visualization, Tableau, Plotly",Data Scientist,83
+Harini,Female,B.Sc Statistics,Computer Vision,"HTML, CSS, JavaScript, React",ML Engineer,69
+Charisma,Female,M.Sc Data Science,NLP,"HTML, CSS, JavaScript, React",AI Engineer,63
+Bala,Female,B.Tech ECE,Cybersecurity,"OpenCV, CNN, Deep Learning",Backend Developer,93
+Nisha Das,Female,B.Sc Statistics,Data Analytics,"SQL, Power BI, Excel",AI Engineer,60
+Aditya Reddy,Male,B.Tech CSE,Cybersecurity,"TensorFlow, Keras, PyTorch",Frontend Developer,68
+Rahul Das,Male,B.Tech ECE,Deep Learning,"TensorFlow, Keras, PyTorch",Backend Developer,87
+Nikhil Sharma,Male,B.Com Computers,Machine Learning,"HTML, CSS, JavaScript, React",Data Scientist,73
+Sai Reddy,Male,B.Tech IT,Data Analytics,"Python, Flask, API Development",Data Analyst,62
+Sneha Singh,Female,B.Tech ECE,Web Development,"TensorFlow, Keras, PyTorch",ML Engineer,62
+Harsha Patel,Male,B.Com Computers,NLP,"Data Visualization, Tableau, Plotly",Data Analyst,77
+Swati Maheshwari Patel,Male,B.Com Computers,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,92
+Divya,Female,B.Tech CSE,Web Development,"HTML, CSS, JavaScript, React",Backend Developer,92
+Srivali Sharma,Female,B.Com Computers,Cybersecurity,"Data Visualization, Tableau, Plotly",ML Engineer,91
+Sandeep Singh,Male,B.Tech CSE,Web Development,"HTML, CSS, JavaScript, React",Frontend Developer,76
+Sousanya Kumar,Female,B.Tech IT,Data Analytics,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,62
+Sindhu Kumar,Female,B.Com Computers,Data Analytics,"NLTK, SpaCy, TextBlob",AI Engineer,86
+Divya Sharma,Female,MCA,NLP,"Python, Flask, API Development",Backend Developer,74
+Surya,Male,M.Sc Data Science,Deep Learning,"Python, Pandas, NumPy, Matplotlib",ML Engineer,91
+Sai Das,Male,B.Com Computers,Cybersecurity,"TensorFlow, Keras, PyTorch",ML Engineer,64
+Swati Maheshwari,Male,MCA,Data Analytics,"OpenCV, CNN, Deep Learning",Frontend Developer,65
+Sravani,Female,B.Tech ECE,NLP,"SQL, Power BI, Excel",Backend Developer,83
+Mounika Kumar,Female,B.Tech CSE,Cybersecurity,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,72
+Harini,Female,B.Com Computers,NLP,"SQL, Power BI, Excel",Data Analyst,79
+Divya Kumar,Female,B.Tech CSE,NLP,"Python, Pandas, NumPy, Matplotlib",Backend Developer,70
+Sneha Patel,Female,M.Sc Data Science,Computer Vision,"SQL, Power BI, Excel",ML Engineer,60
+Harsha Singh,Male,B.Tech CSE,Cybersecurity,"SQL, Power BI, Excel",Data Scientist,99
+Preethi Singh,Female,B.Tech ECE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Scientist,60
+Anjali Sharma,Female,B.Sc Statistics,Data Analytics,"TensorFlow, Keras, PyTorch",ML Engineer,74
+Shreya Das,Female,B.Sc Statistics,Cybersecurity,"NLTK, SpaCy, TextBlob",Data Analyst,96
+Bhavya Das,Female,MCA,Cybersecurity,"Python, Flask, API Development",ML Engineer,81
+Navya Gayatri,Female,B.Tech CSE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,77
+Sneha Reddy,Female,B.Com Computers,Computer Vision,"TensorFlow, Keras, PyTorch",AI Engineer,63
+Harini Sharma,Female,B.Com Computers,Deep Learning,"NLTK, SpaCy, TextBlob",Backend Developer,69
+Sravani,Female,M.Sc Data Science,NLP,"TensorFlow, Keras, PyTorch",Data Analyst,94
+Joshi Singh,Female,B.Tech CSE,NLP,"Data Visualization, Tableau, Plotly",ML Engineer,65
+Anusha Sharma,Female,B.Tech ECE,Machine Learning,"Python, Flask, API Development",Frontend Developer,72
+Suma Reddy,Female,B.Com Computers,Data Analytics,"OpenCV, CNN, Deep Learning",Data Scientist,82
+Teja Reddy,Male,B.Sc Statistics,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Analyst,73
+Priya Reddy,Female,B.Tech ECE,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Analyst,71
+Yamini,Female,M.Sc Data Science,Cybersecurity,"NLTK, SpaCy, TextBlob",Data Scientist,84
+Shreya Das,Female,B.Sc Statistics,Cybersecurity,"HTML, CSS, JavaScript, React",ML Engineer,69
+Navya Sharma,Female,B.Sc Statistics,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,79
+Kiran,Male,M.Sc Data Science,Deep Learning,"Data Visualization, Tableau, Plotly",Data Analyst,64
+Sneha Patel,Female,B.Com Computers,Web Development,"Python, Flask, API Development",ML Engineer,73
+Pooja Sharma,Female,B.Sc Statistics,Cybersecurity,"Data Visualization, Tableau, Plotly",ML Engineer,60
+Meghana,Female,M.Sc Data Science,Deep Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,71
+Nisha Patel,Female,MCA,Cybersecurity,"SQL, Power BI, Excel",Backend Developer,88
+Kiran Patel,Male,B.Com Computers,Web Development,"Python, Flask, API Development",Cybersecurity Analyst,85
+Harsha Das,Male,B.Com Computers,Deep Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,88
+Aditya Kumar,Male,B.Com Computers,Machine Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,61
+Sneha,Female,M.Sc Data Science,Deep Learning,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,88
+Vikram Singh,Male,B.Sc Statistics,Deep Learning,"OpenCV, CNN, Deep Learning",ML Engineer,86
+Vamsi Kumar,Male,B.Tech CSE,Data Analytics,"TensorFlow, Keras, PyTorch",Data Analyst,73
+Priya Kumar,Female,B.Tech ECE,NLP,"SQL, Power BI, Excel",Cybersecurity Analyst,71
+Krishna Das,Male,MCA,NLP,"HTML, CSS, JavaScript, React",AI Engineer,64
+Shreya Das,Female,M.Sc Data Science,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Backend Developer,91
+Rahul,Male,MCA,Cybersecurity,"OpenCV, CNN, Deep Learning",AI Engineer,84
+Meghana Patel,Female,M.Sc Data Science,Data Analytics,"SQL, Power BI, Excel",Data Scientist,99
+Likitha Das,Female,B.Com Computers,Machine Learning,"Python, Flask, API Development",AI Engineer,68
+Anusha Sharma,Female,B.Tech CSE,Machine Learning,"SQL, Power BI, Excel",Backend Developer,98
+Harsha Singh,Male,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",ML Engineer,78
+Rohit Sharma,Male,B.Tech ECE,Deep Learning,"Data Visualization, Tableau, Plotly",Data Analyst,68
+Nisha Sharma,Female,B.Sc Statistics,Data Analytics,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,87
+Navya Sharma,Female,B.Tech CSE,Data Analytics,"Data Visualization, Tableau, Plotly",AI Engineer,94
+Priya Kumar,Female,B.Com Computers,NLP,"Python, Pandas, NumPy, Matplotlib",ML Engineer,92
+Bala Das,Female,B.Sc Statistics,Deep Learning,"SQL, Power BI, Excel",AI Engineer,62
+Bala,Female,MCA,Computer Vision,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,69
+Suma Reddy,Female,B.Tech IT,Web Development,"SQL, Power BI, Excel",Data Analyst,71
+Nikhil Das,Male,MCA,Web Development,"Python, Pandas, NumPy, Matplotlib",Backend Developer,90
+Sandeep Kumar,Male,B.Sc Statistics,Machine Learning,"TensorFlow, Keras, PyTorch",ML Engineer,87
+Kiran Kumar,Male,M.Sc Data Science,Web Development,"SQL, Power BI, Excel",Frontend Developer,84
+Shreya Singh,Female,B.Sc Statistics,Computer Vision,"HTML, CSS, JavaScript, React",Frontend Developer,62
+Navya Patel,Female,M.Sc Data Science,Data Analytics,"Data Visualization, Tableau, Plotly",ML Engineer,78
+Yamini Kumar,Female,B.Tech IT,Computer Vision,"SQL, Power BI, Excel",ML Engineer,98
+Vikram,Male,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Frontend Developer,70
+Charisma Reddy,Female,M.Sc Data Science,Machine Learning,"NLTK, SpaCy, TextBlob",ML Engineer,78
+Sandeep Das,Male,M.Sc Data Science,Machine Learning,"SQL, Power BI, Excel",Data Scientist,89
+Aditya Kumar,Male,B.Tech CSE,Cybersecurity,"NLTK, SpaCy, TextBlob",Frontend Developer,97
+Yamini Das,Female,MCA,NLP,"HTML, CSS, JavaScript, React",Data Analyst,93
+Krishna Reddy,Male,B.Com Computers,NLP,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,83
+Pooja Reddy,Female,B.Com Computers,Deep Learning,"OpenCV, CNN, Deep Learning",AI Engineer,72
+Yamini Kumar,Female,B.Com Computers,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,89
+Rahul Kumar,Male,B.Tech IT,Data Analytics,"TensorFlow, Keras, PyTorch",AI Engineer,67
+Vikram Patel,Male,MCA,Deep Learning,"Python, Flask, API Development",Data Scientist,71
+Kiran,Male,B.Sc Statistics,Data Analytics,"HTML, CSS, JavaScript, React",Data Analyst,64
+Sindhu Sharma,Female,B.Com Computers,Computer Vision,"HTML, CSS, JavaScript, React",ML Engineer,90
+Sandeep Reddy,Male,M.Sc Data Science,NLP,"Python, Pandas, NumPy, Matplotlib",AI Engineer,96
+Priya,Female,B.Tech IT,Cybersecurity,"Data Visualization, Tableau, Plotly",ML Engineer,96
+Vamsi Singh,Male,MCA,Web Development,"OpenCV, CNN, Deep Learning",Data Scientist,82
+Harsha Patel,Male,MCA,Computer Vision,"Python, Flask, API Development",Backend Developer,80
+Anusha,Female,M.Sc Data Science,NLP,"Python, Pandas, NumPy, Matplotlib",ML Engineer,75
+Manoj Singh,Male,B.Tech IT,Web Development,"TensorFlow, Keras, PyTorch",Data Analyst,80
+Joshi,Female,M.Sc Data Science,NLP,"HTML, CSS, JavaScript, React",Frontend Developer,91
+Suma Kumar,Female,B.Com Computers,Computer Vision,"Python, Flask, API Development",Cybersecurity Analyst,62
+Bhavya Singh,Female,B.Tech ECE,Data Analytics,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,93
+Meghana Sharma,Female,B.Com Computers,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Data Analyst,93
+Shreya Sharma,Female,B.Com Computers,Machine Learning,"TensorFlow, Keras, PyTorch",Data Scientist,69
+Vikram Das,Male,B.Tech IT,Computer Vision,"TensorFlow, Keras, PyTorch",Data Scientist,96
+Harsha Kumar,Male,B.Tech IT,Cybersecurity,"SQL, Power BI, Excel",ML Engineer,74
+Joshi Singh,Female,B.Com Computers,Web Development,"NLTK, SpaCy, TextBlob",ML Engineer,74
+Kiran,Male,B.Tech CSE,Cybersecurity,"TensorFlow, Keras, PyTorch",AI Engineer,73
+Arjun Reddy,Male,B.Tech ECE,Web Development,"HTML, CSS, JavaScript, React",AI Engineer,99
+Vikram Kumar,Male,B.Tech IT,Web Development,"OpenCV, CNN, Deep Learning",Backend Developer,82
+Shreya,Female,B.Tech IT,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,62
+Mounika Das,Female,M.Sc Data Science,Cybersecurity,"OpenCV, CNN, Deep Learning",AI Engineer,80
+Krishna Singh,Male,B.Tech ECE,Computer Vision,"Python, Flask, API Development",Frontend Developer,92
+Keerthi Singh,Female,B.Com Computers,Deep Learning,"NLTK, SpaCy, TextBlob",AI Engineer,73
+Kiran,Male,B.Sc Statistics,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Backend Developer,74
+Bhavya Kumar,Female,B.Com Computers,Data Analytics,"Python, Flask, API Development",Cybersecurity Analyst,64
+Mounika Patel,Female,B.Sc Statistics,Deep Learning,"HTML, CSS, JavaScript, React",AI Engineer,71
+Ritika Reddy,Female,B.Sc Statistics,Data Analytics,"SQL, Power BI, Excel",AI Engineer,95
+Harsha Das,Male,MCA,Deep Learning,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,78
+Krishna Singh,Male,B.Tech ECE,Machine Learning,"SQL, Power BI, Excel",Frontend Developer,99
+Joshi Reddy,Female,B.Sc Statistics,Computer Vision,"Python, Pandas, NumPy, Matplotlib",ML Engineer,94
+Navya Gayatri Singh,Female,MCA,Data Analytics,"SQL, Power BI, Excel",Data Analyst,61
+Sandeep Reddy,Male,M.Sc Data Science,Data Analytics,"NLTK, SpaCy, TextBlob",AI Engineer,88
+Harini Das,Female,B.Sc Statistics,Data Analytics,"HTML, CSS, JavaScript, React",Data Scientist,93
+Arjun Das,Male,B.Tech IT,Deep Learning,"Python, Flask, API Development",Cybersecurity Analyst,64
+Navya Gayatri Sharma,Female,MCA,Deep Learning,"OpenCV, CNN, Deep Learning",AI Engineer,75
+Preethi Singh,Female,B.Tech IT,Computer Vision,"SQL, Power BI, Excel",Backend Developer,66
+Vamsi,Male,B.Com Computers,Data Analytics,"Python, Flask, API Development",Data Scientist,86
+Meghana Sharma,Female,B.Sc Statistics,Web Development,"NLTK, SpaCy, TextBlob",AI Engineer,99
+Joshi Kumar,Female,B.Sc Statistics,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,73
+Rahul Singh,Male,B.Com Computers,Deep Learning,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,91
+Likitha,Female,B.Tech CSE,NLP,"Python, Flask, API Development",ML Engineer,71
+Sravani Sharma,Female,B.Tech CSE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Data Analyst,65
+Rahul Sharma,Male,B.Sc Statistics,Data Analytics,"TensorFlow, Keras, PyTorch",Backend Developer,93
+Nikhil Reddy,Male,B.Tech IT,Cybersecurity,"HTML, CSS, JavaScript, React",Frontend Developer,68
+Keerthi Patel,Female,B.Tech CSE,Deep Learning,"HTML, CSS, JavaScript, React",Data Scientist,92
+Rahul Patel,Male,MCA,Cybersecurity,"Python, Flask, API Development",Cybersecurity Analyst,98
+Vamsi Das,Male,B.Com Computers,Computer Vision,"Data Visualization, Tableau, Plotly",Data Scientist,60
+Pooja Reddy,Female,B.Tech ECE,Machine Learning,"SQL, Power BI, Excel",Cybersecurity Analyst,90
+Keerthi Reddy,Female,B.Tech IT,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Scientist,76
+Varsha Das,Female,MCA,NLP,"NLTK, SpaCy, TextBlob",Data Analyst,69
+Keerthi Kumar,Female,B.Tech ECE,NLP,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,63
+Sravani Singh,Female,M.Sc Data Science,Web Development,"Python, Flask, API Development",Data Scientist,71
+Bhavya Kumar,Female,M.Sc Data Science,Computer Vision,"Python, Flask, API Development",Data Scientist,72
+Rohit Reddy,Male,B.Tech ECE,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,69
+Sindhu Singh,Female,B.Tech ECE,Data Analytics,"Python, Flask, API Development",Backend Developer,87
+Harini Patel,Female,MCA,Machine Learning,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,94
+Srivali Patel,Female,M.Sc Data Science,Data Analytics,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,88
+Krishna Singh,Male,B.Tech CSE,Cybersecurity,"Python, Flask, API Development",Frontend Developer,69
+Harsha,Male,M.Sc Data Science,Computer Vision,"HTML, CSS, JavaScript, React",Data Scientist,61
+Priya,Female,B.Com Computers,Deep Learning,"Data Visualization, Tableau, Plotly",ML Engineer,96
+Bhavya Patel,Female,B.Sc Statistics,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Scientist,66
+Rahul Das,Male,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Scientist,96
+Harsha Reddy,Male,B.Tech ECE,NLP,"Python, Flask, API Development",Cybersecurity Analyst,92
+Teja Kumar,Male,B.Sc Statistics,Machine Learning,"TensorFlow, Keras, PyTorch",AI Engineer,85
+Ritika Sharma,Female,B.Tech IT,Machine Learning,"SQL, Power BI, Excel",Cybersecurity Analyst,69
+Sai Singh,Male,B.Tech ECE,Web Development,"Python, Pandas, NumPy, Matplotlib",ML Engineer,61
+Sravani Kumar,Female,B.Sc Statistics,Deep Learning,"TensorFlow, Keras, PyTorch",Data Analyst,93
+Yamini,Female,B.Tech IT,Machine Learning,"OpenCV, CNN, Deep Learning",ML Engineer,85
+Swati Maheshwari Reddy,Male,MCA,Deep Learning,"TensorFlow, Keras, PyTorch",Data Analyst,86
+Sai Reddy,Male,B.Tech CSE,Cybersecurity,"Python, Flask, API Development",Frontend Developer,73
+Swati Maheshwari Patel,Male,M.Sc Data Science,Data Analytics,"NLTK, SpaCy, TextBlob",Data Scientist,98
+Sai Reddy,Male,M.Sc Data Science,NLP,"OpenCV, CNN, Deep Learning",Data Analyst,89
+Harini Sharma,Female,M.Sc Data Science,NLP,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,81
+Yamini Das,Female,B.Tech ECE,Web Development,"Python, Flask, API Development",ML Engineer,95
+Shreya Kumar,Female,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",ML Engineer,67
+Lavanya,Female,B.Tech ECE,NLP,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,72
+Lavanya Das,Female,B.Sc Statistics,Machine Learning,"HTML, CSS, JavaScript, React",Frontend Developer,68
+Rahul,Male,M.Sc Data Science,Deep Learning,"HTML, CSS, JavaScript, React",AI Engineer,67
+Sandeep Patel,Male,B.Sc Statistics,Cybersecurity,"Python, Flask, API Development",Cybersecurity Analyst,78
+Aditya Reddy,Male,B.Tech ECE,Deep Learning,"OpenCV, CNN, Deep Learning",Data Analyst,96
+Bala Kumar,Female,MCA,Deep Learning,"Python, Flask, API Development",ML Engineer,86
+Suma Sharma,Female,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,86
+Navya Das,Female,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Analyst,82
+Likitha Patel,Female,B.Tech CSE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,94
+Sneha Singh,Female,B.Sc Statistics,Computer Vision,"Python, Flask, API Development",AI Engineer,86
+Sravani Kumar,Female,B.Com Computers,Computer Vision,"OpenCV, CNN, Deep Learning",Data Scientist,74
+Joshi Patel,Female,B.Tech CSE,Web Development,"Python, Flask, API Development",Cybersecurity Analyst,66
+Preethi Singh,Female,B.Sc Statistics,Cybersecurity,"TensorFlow, Keras, PyTorch",Data Analyst,94
+Anusha Das,Female,B.Tech ECE,Computer Vision,"HTML, CSS, JavaScript, React",Data Analyst,62
+Deepika Sharma,Female,M.Sc Data Science,Machine Learning,"Data Visualization, Tableau, Plotly",Frontend Developer,71
+Sneha,Female,B.Tech CSE,Deep Learning,"SQL, Power BI, Excel",AI Engineer,83
+Krishna Sharma,Male,B.Tech ECE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Data Scientist,69
+Pooja Das,Female,B.Sc Statistics,Deep Learning,"OpenCV, CNN, Deep Learning",Backend Developer,85
+Rohit Sharma,Male,B.Tech IT,Machine Learning,"OpenCV, CNN, Deep Learning",Data Scientist,70
+Swati Maheshwari Das,Male,MCA,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,69
+Mounika,Female,B.Com Computers,Deep Learning,"HTML, CSS, JavaScript, React",AI Engineer,91
+Bala Das,Female,B.Sc Statistics,Data Analytics,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,64
+Shreya Reddy,Female,MCA,Deep Learning,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,69
+Harini Singh,Female,B.Tech CSE,Deep Learning,"TensorFlow, Keras, PyTorch",ML Engineer,65
+Joshi Kumar,Female,B.Com Computers,Deep Learning,"Python, Flask, API Development",Data Analyst,68
+Lavanya Singh,Female,MCA,NLP,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,81
+Sindhu Reddy,Female,B.Sc Statistics,Computer Vision,"OpenCV, CNN, Deep Learning",Data Scientist,97
+Nisha Das,Female,B.Sc Statistics,Data Analytics,"Data Visualization, Tableau, Plotly",ML Engineer,96
+Preethi Das,Female,B.Tech ECE,Web Development,"HTML, CSS, JavaScript, React",Data Scientist,78
+Anusha,Female,B.Sc Statistics,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Analyst,95
+Krishna,Male,B.Tech CSE,Data Analytics,"SQL, Power BI, Excel",Data Scientist,82
+Swati Maheshwari Reddy,Male,MCA,NLP,"OpenCV, CNN, Deep Learning",Frontend Developer,85
+Krishna Kumar,Male,M.Sc Data Science,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,92
+Anusha Singh,Female,B.Tech ECE,Cybersecurity,"TensorFlow, Keras, PyTorch",Data Scientist,77
+Sravani Sharma,Female,B.Sc Statistics,Data Analytics,"TensorFlow, Keras, PyTorch",ML Engineer,92
+Deepika Patel,Female,B.Tech ECE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Scientist,64
+Charisma,Female,B.Tech ECE,Web Development,"TensorFlow, Keras, PyTorch",Backend Developer,81
+Teja Patel,Male,B.Sc Statistics,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,97
+Anjali Kumar,Female,MCA,Web Development,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,89
+Rohit Patel,Male,MCA,Web Development,"Python, Flask, API Development",Data Scientist,85
+Divya,Female,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Scientist,97
+Keerthi Reddy,Female,MCA,Cybersecurity,"OpenCV, CNN, Deep Learning",Frontend Developer,95
+Lavanya Patel,Female,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Backend Developer,89
+Sravani Sharma,Female,MCA,Cybersecurity,"Python, Flask, API Development",ML Engineer,61
+Divya Singh,Female,B.Tech IT,Computer Vision,"Python, Flask, API Development",Data Analyst,69
+Sravani Patel,Female,MCA,Web Development,"NLTK, SpaCy, TextBlob",AI Engineer,74
+Varsha Singh,Female,B.Tech ECE,Web Development,"SQL, Power BI, Excel",Cybersecurity Analyst,86
+Arjun,Male,M.Sc Data Science,Cybersecurity,"NLTK, SpaCy, TextBlob",Backend Developer,73
+Navya Gayatri Kumar,Female,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Backend Developer,64
+Priya Patel,Female,B.Sc Statistics,Web Development,"NLTK, SpaCy, TextBlob",Data Scientist,79
+Harsha Das,Male,B.Com Computers,Computer Vision,"OpenCV, CNN, Deep Learning",Backend Developer,62
+Anjali Singh,Female,B.Tech CSE,Data Analytics,"HTML, CSS, JavaScript, React",AI Engineer,89
+Sindhu Patel,Female,B.Com Computers,Data Analytics,"Data Visualization, Tableau, Plotly",Backend Developer,72
+Nikhil Das,Male,MCA,NLP,"HTML, CSS, JavaScript, React",Data Scientist,94
+Mounika Das,Female,M.Sc Data Science,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,83
+Joshi Singh,Female,B.Tech CSE,Web Development,"HTML, CSS, JavaScript, React",AI Engineer,61
+Vikram Sharma,Male,B.Tech IT,Machine Learning,"NLTK, SpaCy, TextBlob",AI Engineer,74
+Pooja,Female,B.Sc Statistics,Deep Learning,"Python, Flask, API Development",Frontend Developer,88
+Rohit Patel,Male,B.Com Computers,Data Analytics,"SQL, Power BI, Excel",Backend Developer,95
+Sai Singh,Male,B.Tech IT,Computer Vision,"Python, Flask, API Development",AI Engineer,78
+Yamini Reddy,Female,B.Tech IT,Machine Learning,"Data Visualization, Tableau, Plotly",Data Analyst,99
+Sai,Male,MCA,Web Development,"SQL, Power BI, Excel",Backend Developer,90
+Ritika Das,Female,B.Tech ECE,Deep Learning,"HTML, CSS, JavaScript, React",Data Scientist,66
+Nisha Singh,Female,B.Tech ECE,NLP,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,82
+Krishna Reddy,Male,B.Com Computers,Cybersecurity,"SQL, Power BI, Excel",Cybersecurity Analyst,90
+Sravani Reddy,Female,M.Sc Data Science,Cybersecurity,"SQL, Power BI, Excel",Frontend Developer,81
+Sravani Singh,Female,B.Tech ECE,NLP,"HTML, CSS, JavaScript, React",Data Scientist,72
+Rahul Reddy,Male,B.Sc Statistics,NLP,"SQL, Power BI, Excel",AI Engineer,81
+Harsha Kumar,Male,B.Sc Statistics,Computer Vision,"NLTK, SpaCy, TextBlob",Data Analyst,90
+Krishna Singh,Male,MCA,Computer Vision,"Python, Flask, API Development",Cybersecurity Analyst,60
+Yamini Das,Female,B.Com Computers,Machine Learning,"Data Visualization, Tableau, Plotly",Data Analyst,80
+Srivali Sharma,Female,B.Tech CSE,Cybersecurity,"SQL, Power BI, Excel",Data Analyst,81
+Nikhil Singh,Male,B.Tech IT,Cybersecurity,"TensorFlow, Keras, PyTorch",ML Engineer,80
+Meghana Patel,Female,B.Tech IT,Data Analytics,"Data Visualization, Tableau, Plotly",Frontend Developer,89
+Harini Das,Female,B.Tech IT,Web Development,"OpenCV, CNN, Deep Learning",Data Scientist,85
+Aditya Das,Male,B.Sc Statistics,Deep Learning,"SQL, Power BI, Excel",ML Engineer,91
+Sindhu,Female,MCA,Deep Learning,"OpenCV, CNN, Deep Learning",Backend Developer,64
+Shreya Kumar,Female,B.Com Computers,Computer Vision,"Python, Pandas, NumPy, Matplotlib",ML Engineer,91
+Vikram Kumar,Male,MCA,Cybersecurity,"TensorFlow, Keras, PyTorch",Data Analyst,92
+Deepika Das,Female,M.Sc Data Science,Deep Learning,"Data Visualization, Tableau, Plotly",Frontend Developer,81
+Nisha Sharma,Female,B.Tech CSE,NLP,"SQL, Power BI, Excel",AI Engineer,81
+Priya Kumar,Female,B.Com Computers,Deep Learning,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,69
+Rohit Sharma,Male,MCA,Cybersecurity,"NLTK, SpaCy, TextBlob",AI Engineer,96
+Sneha Das,Female,B.Tech IT,Computer Vision,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,76
+Bhavya,Female,B.Tech CSE,Computer Vision,"SQL, Power BI, Excel",Data Scientist,70
+Rahul,Male,B.Sc Statistics,Deep Learning,"OpenCV, CNN, Deep Learning",AI Engineer,92
+Priya Sharma,Female,M.Sc Data Science,Data Analytics,"HTML, CSS, JavaScript, React",AI Engineer,64
+Swati Maheshwari Kumar,Male,B.Tech CSE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Scientist,79
+Priya Kumar,Female,B.Tech ECE,Web Development,"Data Visualization, Tableau, Plotly",ML Engineer,86
+Kiran Kumar,Male,B.Sc Statistics,Machine Learning,"NLTK, SpaCy, TextBlob",Data Scientist,86
+Divya Sharma,Female,B.Tech ECE,Machine Learning,"Data Visualization, Tableau, Plotly",Frontend Developer,96
+Sindhu Patel,Female,MCA,Computer Vision,"Data Visualization, Tableau, Plotly",Backend Developer,98
+Mounika Patel,Female,MCA,Cybersecurity,"NLTK, SpaCy, TextBlob",Backend Developer,82
+Lavanya Singh,Female,B.Tech IT,Machine Learning,"SQL, Power BI, Excel",Frontend Developer,71
+Meghana Singh,Female,MCA,NLP,"OpenCV, CNN, Deep Learning",ML Engineer,66
+Likitha Das,Female,B.Tech CSE,Computer Vision,"Data Visualization, Tableau, Plotly",ML Engineer,65
+Kiran Das,Male,B.Com Computers,Cybersecurity,"Python, Flask, API Development",Frontend Developer,98
+Sravani Reddy,Female,B.Tech IT,Computer Vision,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,97
+Sai Kumar,Male,M.Sc Data Science,Web Development,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,98
+Sousanya,Female,B.Tech CSE,Deep Learning,"HTML, CSS, JavaScript, React",Frontend Developer,74
+Srivali Reddy,Female,B.Tech CSE,NLP,"Data Visualization, Tableau, Plotly",ML Engineer,97
+Aditya,Male,B.Tech ECE,Machine Learning,"OpenCV, CNN, Deep Learning",Data Analyst,89
+Deepika Singh,Female,B.Com Computers,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,99
+Rohit Kumar,Male,B.Tech CSE,NLP,"NLTK, SpaCy, TextBlob",Frontend Developer,76
+Vikram Patel,Male,B.Tech ECE,Deep Learning,"OpenCV, CNN, Deep Learning",ML Engineer,77
+Sai Kumar,Male,B.Tech ECE,Computer Vision,"TensorFlow, Keras, PyTorch",Data Scientist,62
+Navya Patel,Female,B.Tech IT,Data Analytics,"Python, Pandas, NumPy, Matplotlib",ML Engineer,90
+Aditya Reddy,Male,B.Tech CSE,Deep Learning,"NLTK, SpaCy, TextBlob",AI Engineer,68
+Harsha Das,Male,B.Tech ECE,Cybersecurity,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,73
+Harini Singh,Female,B.Tech ECE,NLP,"OpenCV, CNN, Deep Learning",Frontend Developer,72
+Vikram Singh,Male,M.Sc Data Science,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,60
+Sneha Kumar,Female,B.Com Computers,Computer Vision,"TensorFlow, Keras, PyTorch",Frontend Developer,72
+Sindhu Kumar,Female,MCA,NLP,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,73
+Vikram,Male,B.Tech IT,Web Development,"Data Visualization, Tableau, Plotly",Data Analyst,61
+Keerthi Singh,Female,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,78
+Bala Sharma,Female,MCA,Cybersecurity,"NLTK, SpaCy, TextBlob",Data Scientist,61
+Anusha Sharma,Female,B.Tech ECE,Computer Vision,"NLTK, SpaCy, TextBlob",Backend Developer,96
+Sneha Singh,Female,MCA,Deep Learning,"NLTK, SpaCy, TextBlob",AI Engineer,77
+Srivali Sharma,Female,B.Tech ECE,Computer Vision,"TensorFlow, Keras, PyTorch",Backend Developer,64
+Krishna Singh,Male,M.Sc Data Science,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Backend Developer,89
+Harini Sharma,Female,B.Sc Statistics,Cybersecurity,"SQL, Power BI, Excel",ML Engineer,71
+Nikhil,Male,B.Sc Statistics,Deep Learning,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,86
+Lavanya Patel,Female,B.Tech CSE,Computer Vision,"Python, Flask, API Development",AI Engineer,68
+Teja Kumar,Male,B.Tech IT,Web Development,"TensorFlow, Keras, PyTorch",Data Analyst,89
+Manoj Sharma,Male,B.Tech CSE,Machine Learning,"HTML, CSS, JavaScript, React",ML Engineer,92
+Kiran,Male,MCA,Computer Vision,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,85
+Anusha Kumar,Female,B.Tech ECE,Deep Learning,"SQL, Power BI, Excel",ML Engineer,98
+Divya Reddy,Female,B.Tech ECE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,80
+Vamsi Reddy,Male,B.Tech IT,Deep Learning,"Python, Flask, API Development",Cybersecurity Analyst,85
+Swati Maheshwari Singh,Male,B.Tech CSE,Computer Vision,"TensorFlow, Keras, PyTorch",Backend Developer,99
+Rahul Patel,Male,MCA,NLP,"SQL, Power BI, Excel",Frontend Developer,79
+Priya Singh,Female,M.Sc Data Science,Machine Learning,"TensorFlow, Keras, PyTorch",Data Analyst,65
+Shreya Das,Female,B.Tech ECE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",AI Engineer,96
+Sravani Reddy,Female,B.Tech CSE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,83
+Navya Gayatri,Female,B.Tech CSE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Analyst,71
+Lavanya Singh,Female,B.Sc Statistics,Web Development,"OpenCV, CNN, Deep Learning",Backend Developer,90
+Deepika Das,Female,B.Tech ECE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",ML Engineer,78
+Harsha Singh,Male,B.Tech ECE,Deep Learning,"OpenCV, CNN, Deep Learning",Backend Developer,91
+Swati Maheshwari Singh,Male,B.Sc Statistics,Machine Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,81
+Anusha Reddy,Female,B.Com Computers,Machine Learning,"Python, Flask, API Development",AI Engineer,67
+Priya Kumar,Female,B.Com Computers,Data Analytics,"Python, Flask, API Development",AI Engineer,69
+Likitha Patel,Female,B.Tech CSE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Scientist,93
+Harini Kumar,Female,M.Sc Data Science,NLP,"TensorFlow, Keras, PyTorch",AI Engineer,97
+Nikhil,Male,B.Sc Statistics,Web Development,"HTML, CSS, JavaScript, React",Data Analyst,64
+Vamsi Sharma,Male,M.Sc Data Science,Web Development,"NLTK, SpaCy, TextBlob",Data Scientist,88
+Sandeep Singh,Male,B.Tech ECE,Cybersecurity,"HTML, CSS, JavaScript, React",AI Engineer,95
+Sousanya Kumar,Female,B.Tech ECE,Data Analytics,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,92
+Meghana,Female,MCA,Web Development,"Python, Flask, API Development",Data Analyst,99
+Shreya Patel,Female,MCA,Cybersecurity,"SQL, Power BI, Excel",Data Scientist,71
+Charisma Reddy,Female,B.Tech IT,Deep Learning,"Python, Flask, API Development",Data Analyst,97
+Bala Patel,Female,MCA,Web Development,"TensorFlow, Keras, PyTorch",ML Engineer,94
+Rahul Patel,Male,B.Tech CSE,Data Analytics,"Data Visualization, Tableau, Plotly",ML Engineer,89
+Vikram Das,Male,B.Tech CSE,NLP,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,63
+Sandeep Das,Male,B.Tech CSE,Machine Learning,"HTML, CSS, JavaScript, React",Backend Developer,64
+Anjali Das,Female,MCA,Web Development,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,87
+Srivali Kumar,Female,M.Sc Data Science,Machine Learning,"NLTK, SpaCy, TextBlob",Data Analyst,81
+Srivali Singh,Female,B.Tech CSE,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Data Analyst,86
+Sandeep Patel,Male,M.Sc Data Science,NLP,"HTML, CSS, JavaScript, React",Backend Developer,99
+Sneha Das,Female,B.Tech ECE,Machine Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,73
+Nisha Patel,Female,B.Tech CSE,Web Development,"SQL, Power BI, Excel",Backend Developer,60
+Swati Maheshwari,Male,MCA,Deep Learning,"Python, Flask, API Development",Data Scientist,99
+Vikram,Male,B.Sc Statistics,Web Development,"TensorFlow, Keras, PyTorch",AI Engineer,62
+Srivali Sharma,Female,M.Sc Data Science,NLP,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,99
+Lavanya Singh,Female,B.Sc Statistics,Cybersecurity,"TensorFlow, Keras, PyTorch",AI Engineer,65
+Kiran,Male,B.Tech ECE,Data Analytics,"Python, Flask, API Development",ML Engineer,84
+Joshi Sharma,Female,B.Com Computers,Cybersecurity,"HTML, CSS, JavaScript, React",AI Engineer,81
+Sindhu Patel,Female,B.Tech CSE,NLP,"NLTK, SpaCy, TextBlob",Data Analyst,79
+Divya Kumar,Female,MCA,Web Development,"Python, Flask, API Development",ML Engineer,84
+Harsha,Male,B.Sc Statistics,Deep Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,74
+Kiran Sharma,Male,B.Tech CSE,Cybersecurity,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,60
+Anusha Patel,Female,MCA,Computer Vision,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,84
+Rohit Patel,Male,M.Sc Data Science,NLP,"NLTK, SpaCy, TextBlob",Frontend Developer,80
+Deepika Singh,Female,B.Tech IT,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Analyst,98
+Joshi Patel,Female,MCA,Data Analytics,"Data Visualization, Tableau, Plotly",ML Engineer,88
+Likitha Das,Female,B.Com Computers,Deep Learning,"OpenCV, CNN, Deep Learning",Backend Developer,73
+Srivali Kumar,Female,B.Tech IT,Machine Learning,"Data Visualization, Tableau, Plotly",ML Engineer,84
+Kiran Kumar,Male,MCA,Data Analytics,"TensorFlow, Keras, PyTorch",Frontend Developer,90
+Priya Das,Female,B.Tech ECE,Computer Vision,"NLTK, SpaCy, TextBlob",AI Engineer,68
+Surya Patel,Male,B.Tech IT,Data Analytics,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,60
+Shreya Das,Female,B.Tech ECE,NLP,"Python, Pandas, NumPy, Matplotlib",ML Engineer,87
+Harini Reddy,Female,B.Com Computers,Web Development,"Data Visualization, Tableau, Plotly",Data Scientist,96
+Keerthi Reddy,Female,B.Tech ECE,Machine Learning,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,95
+Harini Singh,Female,B.Tech ECE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,62
+Sravani Patel,Female,B.Sc Statistics,Web Development,"SQL, Power BI, Excel",Frontend Developer,90
+Rahul Reddy,Male,B.Sc Statistics,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Backend Developer,63
+Joshi Sharma,Female,B.Tech IT,NLP,"NLTK, SpaCy, TextBlob",Backend Developer,60
+Aditya Kumar,Male,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",ML Engineer,89
+Sindhu,Female,M.Sc Data Science,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,91
+Srivali Patel,Female,MCA,Data Analytics,"HTML, CSS, JavaScript, React",ML Engineer,65
+Sai Das,Male,B.Tech CSE,Web Development,"NLTK, SpaCy, TextBlob",Frontend Developer,69
+Suma Kumar,Female,B.Tech IT,Cybersecurity,"SQL, Power BI, Excel",Cybersecurity Analyst,80
+Harini Reddy,Female,MCA,Cybersecurity,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,71
+Sai Singh,Male,MCA,Web Development,"TensorFlow, Keras, PyTorch",Backend Developer,71
+Charisma Patel,Female,B.Tech ECE,Machine Learning,"NLTK, SpaCy, TextBlob",ML Engineer,83
+Pooja Patel,Female,MCA,Cybersecurity,"SQL, Power BI, Excel",Data Analyst,69
+Divya Reddy,Female,B.Sc Statistics,Data Analytics,"HTML, CSS, JavaScript, React",AI Engineer,67
+Surya Das,Male,B.Tech CSE,Web Development,"Data Visualization, Tableau, Plotly",Data Scientist,87
+Mounika Sharma,Female,B.Com Computers,NLP,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,60
+Navya Patel,Female,B.Com Computers,Data Analytics,"Data Visualization, Tableau, Plotly",AI Engineer,69
+Sai,Male,B.Tech ECE,Deep Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,66
+Nikhil Kumar,Male,B.Tech IT,Data Analytics,"OpenCV, CNN, Deep Learning",Frontend Developer,86
+Manoj Das,Male,B.Com Computers,NLP,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,68
+Rahul Kumar,Male,M.Sc Data Science,Web Development,"Python, Flask, API Development",Frontend Developer,80
+Sandeep Patel,Male,B.Tech IT,Cybersecurity,"NLTK, SpaCy, TextBlob",Data Scientist,74
+Anjali Das,Female,M.Sc Data Science,Data Analytics,"OpenCV, CNN, Deep Learning",ML Engineer,80
+Rahul Das,Male,B.Tech IT,Data Analytics,"SQL, Power BI, Excel",AI Engineer,63
+Srivali Singh,Female,M.Sc Data Science,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,73
+Nikhil Patel,Male,B.Tech ECE,Computer Vision,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,74
+Anjali Das,Female,B.Tech ECE,NLP,"TensorFlow, Keras, PyTorch",ML Engineer,74
+Meghana Das,Female,B.Tech IT,Deep Learning,"SQL, Power BI, Excel",ML Engineer,86
+Bala Patel,Female,B.Sc Statistics,Machine Learning,"OpenCV, CNN, Deep Learning",Backend Developer,98
+Anjali Patel,Female,B.Tech CSE,Web Development,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,63
+Likitha,Female,MCA,Data Analytics,"TensorFlow, Keras, PyTorch",Data Scientist,94
+Manoj Das,Male,B.Com Computers,Web Development,"Data Visualization, Tableau, Plotly",Frontend Developer,99
+Manoj Kumar,Male,MCA,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Scientist,61
+Deepika Reddy,Female,B.Com Computers,NLP,"NLTK, SpaCy, TextBlob",AI Engineer,77
+Pooja Reddy,Female,B.Tech IT,Machine Learning,"OpenCV, CNN, Deep Learning",Backend Developer,79
+Manoj Kumar,Male,B.Tech ECE,Computer Vision,"Python, Flask, API Development",ML Engineer,97
+Anjali Patel,Female,B.Tech CSE,NLP,"Data Visualization, Tableau, Plotly",ML Engineer,91
+Nikhil Patel,Male,B.Tech CSE,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,69
+Anjali Singh,Female,B.Tech IT,Deep Learning,"OpenCV, CNN, Deep Learning",Data Analyst,86
+Likitha Reddy,Female,M.Sc Data Science,Data Analytics,"Data Visualization, Tableau, Plotly",Backend Developer,60
+Deepika Patel,Female,B.Sc Statistics,Machine Learning,"TensorFlow, Keras, PyTorch",AI Engineer,70
+Keerthi Das,Female,MCA,NLP,"OpenCV, CNN, Deep Learning",Frontend Developer,68
+Rohit,Male,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,77
+Sandeep,Male,B.Com Computers,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,66
+Sandeep Sharma,Male,B.Sc Statistics,Data Analytics,"NLTK, SpaCy, TextBlob",Frontend Developer,84
+Shreya Kumar,Female,B.Com Computers,Deep Learning,"SQL, Power BI, Excel",AI Engineer,97
+Teja Reddy,Male,M.Sc Data Science,Machine Learning,"Python, Flask, API Development",AI Engineer,62
+Nikhil Reddy,Male,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Backend Developer,67
+Swati Maheshwari Sharma,Male,M.Sc Data Science,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Scientist,60
+Likitha,Female,MCA,Cybersecurity,"Data Visualization, Tableau, Plotly",ML Engineer,86
+Harini Sharma,Female,B.Tech CSE,Machine Learning,"Data Visualization, Tableau, Plotly",Data Analyst,75
+Navya Gayatri Reddy,Female,MCA,Data Analytics,"Python, Flask, API Development",Cybersecurity Analyst,97
+Nisha,Female,B.Com Computers,Deep Learning,"HTML, CSS, JavaScript, React",Data Scientist,66
+Yamini Singh,Female,B.Sc Statistics,Web Development,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,99
+Aditya Kumar,Male,B.Tech ECE,Computer Vision,"SQL, Power BI, Excel",Cybersecurity Analyst,80
+Preethi Kumar,Female,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,75
+Rahul Kumar,Male,B.Com Computers,Computer Vision,"Python, Flask, API Development",Cybersecurity Analyst,65
+Harsha Patel,Male,B.Tech ECE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Data Scientist,71
+Yamini Patel,Female,B.Tech IT,Web Development,"TensorFlow, Keras, PyTorch",Data Analyst,63
+Rahul Kumar,Male,B.Tech CSE,NLP,"Python, Pandas, NumPy, Matplotlib",ML Engineer,67
+Aditya Das,Male,M.Sc Data Science,Web Development,"SQL, Power BI, Excel",Frontend Developer,66
+Sindhu Patel,Female,B.Tech ECE,Web Development,"HTML, CSS, JavaScript, React",Data Analyst,97
+Suma,Female,B.Sc Statistics,Data Analytics,"Python, Pandas, NumPy, Matplotlib",AI Engineer,88
+Yamini,Female,M.Sc Data Science,Deep Learning,"OpenCV, CNN, Deep Learning",Frontend Developer,81
+Shreya,Female,B.Tech IT,Cybersecurity,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,62
+Charisma Kumar,Female,M.Sc Data Science,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Analyst,86
+Yamini Sharma,Female,B.Tech CSE,NLP,"Python, Flask, API Development",Data Analyst,84
+Navya,Female,MCA,Web Development,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,90
+Nikhil Kumar,Male,B.Sc Statistics,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,83
+Bala Reddy,Female,B.Com Computers,Data Analytics,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,65
+Mounika Patel,Female,MCA,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,75
+Ritika Singh,Female,B.Tech IT,Web Development,"Python, Flask, API Development",Data Analyst,62
+Keerthi Kumar,Female,B.Sc Statistics,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Analyst,66
+Harini Patel,Female,B.Com Computers,NLP,"Python, Flask, API Development",Data Scientist,99
+Anusha,Female,B.Sc Statistics,NLP,"OpenCV, CNN, Deep Learning",Data Analyst,62
+Navya Gayatri,Female,B.Tech IT,Computer Vision,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,90
+Pooja Singh,Female,MCA,Deep Learning,"OpenCV, CNN, Deep Learning",Frontend Developer,60
+Krishna Singh,Male,B.Sc Statistics,Data Analytics,"Data Visualization, Tableau, Plotly",Data Analyst,79
+Anjali Das,Female,B.Tech IT,Computer Vision,"SQL, Power BI, Excel",Frontend Developer,68
+Teja Sharma,Male,B.Com Computers,Data Analytics,"HTML, CSS, JavaScript, React",Data Analyst,81
+Vikram Patel,Male,B.Tech ECE,Computer Vision,"NLTK, SpaCy, TextBlob",Data Analyst,71
+Swati Maheshwari Das,Male,B.Tech CSE,Data Analytics,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,61
+Swati Maheshwari Das,Male,MCA,Data Analytics,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,90
+Anusha Kumar,Female,B.Tech CSE,Machine Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,60
+Harsha,Male,M.Sc Data Science,Computer Vision,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,77
+Mounika Reddy,Female,B.Tech IT,Web Development,"OpenCV, CNN, Deep Learning",Frontend Developer,77
+Sravani Patel,Female,B.Tech CSE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Backend Developer,63
+Kiran Patel,Male,M.Sc Data Science,Computer Vision,"SQL, Power BI, Excel",Data Scientist,71
+Sravani Sharma,Female,B.Tech CSE,Machine Learning,"HTML, CSS, JavaScript, React",ML Engineer,68
+Sravani Sharma,Female,B.Tech CSE,Computer Vision,"TensorFlow, Keras, PyTorch",Frontend Developer,65
+Joshi Kumar,Female,M.Sc Data Science,NLP,"Python, Flask, API Development",Backend Developer,72
+Bala Das,Female,B.Tech IT,Deep Learning,"NLTK, SpaCy, TextBlob",ML Engineer,97
+Surya Das,Male,MCA,Computer Vision,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,98
+Harsha,Male,B.Tech IT,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,71
+Sravani Reddy,Female,B.Sc Statistics,Machine Learning,"Data Visualization, Tableau, Plotly",Data Scientist,82
+Sousanya Patel,Female,B.Com Computers,Machine Learning,"NLTK, SpaCy, TextBlob",Data Analyst,76
+Bhavya Singh,Female,M.Sc Data Science,Cybersecurity,"SQL, Power BI, Excel",Backend Developer,81
+Arjun Reddy,Male,M.Sc Data Science,Data Analytics,"OpenCV, CNN, Deep Learning",Backend Developer,66
+Priya Reddy,Female,MCA,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Data Scientist,63
+Sindhu Patel,Female,B.Tech ECE,Computer Vision,"Python, Flask, API Development",Data Scientist,60
+Rohit Patel,Male,B.Tech ECE,Cybersecurity,"Data Visualization, Tableau, Plotly",ML Engineer,97
+Varsha,Female,M.Sc Data Science,Web Development,"SQL, Power BI, Excel",Data Scientist,81
+Harsha Kumar,Male,M.Sc Data Science,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,98
+Anjali Kumar,Female,M.Sc Data Science,Web Development,"TensorFlow, Keras, PyTorch",AI Engineer,87
+Manoj Das,Male,B.Tech IT,Cybersecurity,"Python, Flask, API Development",Frontend Developer,78
+Harini,Female,B.Com Computers,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,92
+Nikhil Sharma,Male,B.Tech ECE,Deep Learning,"HTML, CSS, JavaScript, React",Data Analyst,62
+Shreya Reddy,Female,B.Tech IT,Computer Vision,"OpenCV, CNN, Deep Learning",ML Engineer,89
+Suma Reddy,Female,MCA,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Data Scientist,94
+Rohit Patel,Male,B.Tech IT,Computer Vision,"SQL, Power BI, Excel",Data Scientist,89
+Ritika Reddy,Female,B.Tech IT,Cybersecurity,"SQL, Power BI, Excel",Frontend Developer,62
+Varsha Sharma,Female,B.Tech IT,Data Analytics,"Python, Flask, API Development",Frontend Developer,72
+Keerthi Kumar,Female,MCA,Computer Vision,"Data Visualization, Tableau, Plotly",AI Engineer,63
+Manoj Kumar,Male,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",AI Engineer,95
+Varsha Sharma,Female,B.Tech ECE,Web Development,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,65
+Nisha,Female,MCA,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Analyst,99
+Aditya Reddy,Male,B.Tech ECE,Computer Vision,"Data Visualization, Tableau, Plotly",Data Scientist,76
+Priya Singh,Female,B.Tech ECE,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,97
+Kiran Patel,Male,B.Com Computers,Web Development,"Data Visualization, Tableau, Plotly",Frontend Developer,98
+Krishna Sharma,Male,B.Sc Statistics,Computer Vision,"SQL, Power BI, Excel",Frontend Developer,94
+Charisma Patel,Female,B.Tech ECE,Deep Learning,"TensorFlow, Keras, PyTorch",Data Analyst,92
+Rohit Singh,Male,B.Com Computers,Web Development,"TensorFlow, Keras, PyTorch",Data Analyst,71
+Vikram Kumar,Male,B.Com Computers,Web Development,"NLTK, SpaCy, TextBlob",AI Engineer,65
+Nikhil Singh,Male,B.Tech IT,Computer Vision,"NLTK, SpaCy, TextBlob",Backend Developer,95
+Aditya Reddy,Male,B.Tech CSE,Data Analytics,"HTML, CSS, JavaScript, React",Data Scientist,95
+Navya Sharma,Female,MCA,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Analyst,91
+Rohit Reddy,Male,B.Sc Statistics,Web Development,"Data Visualization, Tableau, Plotly",ML Engineer,61
+Nisha,Female,B.Sc Statistics,Deep Learning,"Python, Flask, API Development",Frontend Developer,90
+Sousanya Kumar,Female,B.Com Computers,Data Analytics,"NLTK, SpaCy, TextBlob",Data Scientist,71
+Sravani Sharma,Female,M.Sc Data Science,Deep Learning,"HTML, CSS, JavaScript, React",ML Engineer,88
+Swati Maheshwari Sharma,Male,B.Tech IT,Deep Learning,"Python, Flask, API Development",Backend Developer,84
+Sousanya Kumar,Female,B.Tech ECE,Cybersecurity,"HTML, CSS, JavaScript, React",Backend Developer,98
+Vikram Sharma,Male,B.Tech IT,Machine Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,64
+Charisma Kumar,Female,MCA,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Backend Developer,79
+Navya Gayatri Das,Female,B.Tech IT,Computer Vision,"NLTK, SpaCy, TextBlob",Data Scientist,65
+Divya Kumar,Female,MCA,Computer Vision,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,82
+Arjun Reddy,Male,B.Com Computers,Deep Learning,"Data Visualization, Tableau, Plotly",Backend Developer,63
+Divya Das,Female,B.Sc Statistics,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,60
+Deepika,Female,M.Sc Data Science,Deep Learning,"OpenCV, CNN, Deep Learning",ML Engineer,71
+Sravani Reddy,Female,B.Com Computers,Machine Learning,"TensorFlow, Keras, PyTorch",Backend Developer,94
+Sandeep Singh,Male,B.Tech IT,Data Analytics,"NLTK, SpaCy, TextBlob",Frontend Developer,60
+Rahul,Male,M.Sc Data Science,NLP,"Python, Pandas, NumPy, Matplotlib",Backend Developer,80
+Deepika Das,Female,MCA,Computer Vision,"Data Visualization, Tableau, Plotly",Backend Developer,84
+Swati Maheshwari Reddy,Male,B.Tech ECE,Cybersecurity,"SQL, Power BI, Excel",Frontend Developer,77
+Surya Singh,Male,B.Tech CSE,Computer Vision,"TensorFlow, Keras, PyTorch",Data Scientist,68
+Lavanya,Female,M.Sc Data Science,Data Analytics,"HTML, CSS, JavaScript, React",Frontend Developer,86
+Ritika Singh,Female,B.Tech ECE,NLP,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,75
+Harsha Kumar,Male,B.Tech IT,Deep Learning,"HTML, CSS, JavaScript, React",Frontend Developer,96
+Pooja Reddy,Female,B.Tech ECE,Machine Learning,"HTML, CSS, JavaScript, React",Data Scientist,93
+Bala Kumar,Female,B.Tech ECE,Deep Learning,"NLTK, SpaCy, TextBlob",Backend Developer,67
+Teja Singh,Male,B.Sc Statistics,Data Analytics,"Python, Flask, API Development",Cybersecurity Analyst,66
+Joshi Sharma,Female,M.Sc Data Science,NLP,"NLTK, SpaCy, TextBlob",AI Engineer,97
+Anusha Patel,Female,B.Tech IT,Deep Learning,"HTML, CSS, JavaScript, React",Data Scientist,85
+Meghana Kumar,Female,B.Sc Statistics,Data Analytics,"SQL, Power BI, Excel",Frontend Developer,96
+Srivali,Female,B.Tech ECE,Cybersecurity,"Python, Flask, API Development",Data Analyst,63
+Sousanya,Female,M.Sc Data Science,Deep Learning,"OpenCV, CNN, Deep Learning",ML Engineer,95
+Bala Kumar,Female,B.Tech ECE,Data Analytics,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,69
+Preethi Das,Female,MCA,NLP,"SQL, Power BI, Excel",ML Engineer,82
+Joshi Das,Female,MCA,Web Development,"Data Visualization, Tableau, Plotly",ML Engineer,87
+Navya,Female,B.Tech CSE,Deep Learning,"Python, Flask, API Development",AI Engineer,68
+Rahul,Male,B.Tech CSE,Data Analytics,"SQL, Power BI, Excel",Data Scientist,66
+Sindhu Patel,Female,B.Com Computers,NLP,"Python, Flask, API Development",ML Engineer,77
+Deepika Reddy,Female,MCA,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Data Scientist,82
+Varsha Patel,Female,B.Tech IT,Data Analytics,"TensorFlow, Keras, PyTorch",AI Engineer,92
+Meghana Patel,Female,B.Com Computers,Machine Learning,"SQL, Power BI, Excel",Data Scientist,85
+Mounika Sharma,Female,MCA,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,71
+Varsha Reddy,Female,B.Tech IT,NLP,"TensorFlow, Keras, PyTorch",Data Analyst,98
+Aditya Patel,Male,B.Sc Statistics,Cybersecurity,"HTML, CSS, JavaScript, React",AI Engineer,90
+Likitha Singh,Female,MCA,Machine Learning,"NLTK, SpaCy, TextBlob",Backend Developer,69
+Lavanya Patel,Female,B.Tech ECE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Analyst,78
+Arjun,Male,MCA,Computer Vision,"SQL, Power BI, Excel",Backend Developer,64
+Bala Reddy,Female,B.Sc Statistics,Data Analytics,"Python, Flask, API Development",AI Engineer,69
+Sravani Das,Female,B.Tech CSE,NLP,"Data Visualization, Tableau, Plotly",ML Engineer,64
+Yamini Reddy,Female,B.Tech ECE,Machine Learning,"OpenCV, CNN, Deep Learning",AI Engineer,69
+Divya Patel,Female,M.Sc Data Science,Machine Learning,"TensorFlow, Keras, PyTorch",Backend Developer,66
+Suma Reddy,Female,B.Tech IT,Data Analytics,"Data Visualization, Tableau, Plotly",Data Scientist,98
+Meghana Sharma,Female,B.Tech CSE,Data Analytics,"TensorFlow, Keras, PyTorch",Backend Developer,72
+Suma Kumar,Female,B.Tech CSE,Data Analytics,"SQL, Power BI, Excel",AI Engineer,92
+Krishna Das,Male,B.Sc Statistics,NLP,"HTML, CSS, JavaScript, React",Backend Developer,87
+Sandeep Das,Male,B.Tech CSE,Computer Vision,"Data Visualization, Tableau, Plotly",ML Engineer,62
+Lavanya,Female,B.Tech ECE,Cybersecurity,"SQL, Power BI, Excel",Backend Developer,84
+Varsha Patel,Female,MCA,Data Analytics,"Data Visualization, Tableau, Plotly",AI Engineer,82
+Shreya Das,Female,M.Sc Data Science,NLP,"OpenCV, CNN, Deep Learning",ML Engineer,96
+Bala Singh,Female,B.Com Computers,NLP,"OpenCV, CNN, Deep Learning",Data Analyst,79
+Bala Kumar,Female,B.Tech CSE,Data Analytics,"TensorFlow, Keras, PyTorch",Data Analyst,67
+Anusha,Female,B.Tech IT,Cybersecurity,"OpenCV, CNN, Deep Learning",Backend Developer,98
+Sneha Patel,Female,B.Com Computers,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Backend Developer,99
+Yamini Patel,Female,B.Sc Statistics,Cybersecurity,"Python, Flask, API Development",Data Scientist,65
+Aditya Kumar,Male,B.Tech ECE,Cybersecurity,"HTML, CSS, JavaScript, React",Backend Developer,70
+Manoj Singh,Male,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",Frontend Developer,76
+Likitha Sharma,Female,B.Tech IT,NLP,"Python, Flask, API Development",Data Analyst,98
+Navya Gayatri Sharma,Female,B.Tech IT,Deep Learning,"OpenCV, CNN, Deep Learning",Frontend Developer,67
+Divya Kumar,Female,B.Tech CSE,Machine Learning,"Python, Flask, API Development",ML Engineer,62
+Manoj Das,Male,M.Sc Data Science,Machine Learning,"TensorFlow, Keras, PyTorch",Data Analyst,96
+Anusha,Female,B.Tech ECE,Machine Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,94
+Kiran Sharma,Male,B.Tech CSE,Data Analytics,"Python, Pandas, NumPy, Matplotlib",AI Engineer,95
+Joshi Kumar,Female,B.Tech IT,Web Development,"SQL, Power BI, Excel",Cybersecurity Analyst,99
+Lavanya Singh,Female,B.Tech CSE,Computer Vision,"Python, Flask, API Development",Cybersecurity Analyst,85
+Bhavya Reddy,Female,B.Com Computers,Web Development,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,82
+Vikram Kumar,Male,B.Tech IT,NLP,"HTML, CSS, JavaScript, React",AI Engineer,66
+Preethi Das,Female,B.Sc Statistics,NLP,"OpenCV, CNN, Deep Learning",Frontend Developer,84
+Kiran Singh,Male,M.Sc Data Science,Computer Vision,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,79
+Vikram Singh,Male,MCA,Machine Learning,"SQL, Power BI, Excel",Frontend Developer,80
+Anusha Kumar,Female,B.Tech CSE,Web Development,"Data Visualization, Tableau, Plotly",Frontend Developer,90
+Ritika Patel,Female,M.Sc Data Science,Cybersecurity,"TensorFlow, Keras, PyTorch",ML Engineer,73
+Suma Kumar,Female,B.Com Computers,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,96
+Bhavya Sharma,Female,B.Tech CSE,Machine Learning,"OpenCV, CNN, Deep Learning",Data Scientist,73
+Aditya Reddy,Male,B.Com Computers,Web Development,"NLTK, SpaCy, TextBlob",Backend Developer,99
+Priya Patel,Female,B.Tech CSE,Machine Learning,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,97
+Anusha Sharma,Female,B.Com Computers,Data Analytics,"Python, Flask, API Development",Backend Developer,66
+Charisma Reddy,Female,MCA,Data Analytics,"Data Visualization, Tableau, Plotly",Backend Developer,64
+Sai Singh,Male,B.Tech CSE,Deep Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,64
+Sandeep Reddy,Male,B.Tech CSE,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Backend Developer,89
+Shreya Singh,Female,M.Sc Data Science,Machine Learning,"SQL, Power BI, Excel",Backend Developer,73
+Priya Das,Female,B.Tech ECE,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,66
+Nikhil Reddy,Male,MCA,Machine Learning,"OpenCV, CNN, Deep Learning",Data Analyst,93
+Sai Kumar,Male,MCA,Data Analytics,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,67
+Rahul,Male,B.Tech CSE,Web Development,"OpenCV, CNN, Deep Learning",Backend Developer,78
+Lavanya Reddy,Female,MCA,Cybersecurity,"OpenCV, CNN, Deep Learning",Frontend Developer,86
+Navya Gayatri Sharma,Female,B.Com Computers,Cybersecurity,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,62
+Yamini Patel,Female,B.Tech ECE,Cybersecurity,"HTML, CSS, JavaScript, React",ML Engineer,92
+Krishna,Male,B.Tech IT,Deep Learning,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,61
+Harsha Reddy,Male,MCA,NLP,"NLTK, SpaCy, TextBlob",Backend Developer,76
+Lavanya Singh,Female,M.Sc Data Science,Cybersecurity,"SQL, Power BI, Excel",Backend Developer,61
+Sravani Das,Female,B.Tech IT,Cybersecurity,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,78
+Teja Reddy,Male,B.Sc Statistics,Cybersecurity,"TensorFlow, Keras, PyTorch",Frontend Developer,96
+Mounika Kumar,Female,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Data Scientist,78
+Manoj Kumar,Male,M.Sc Data Science,Machine Learning,"OpenCV, CNN, Deep Learning",ML Engineer,93
+Lavanya Reddy,Female,B.Tech CSE,Machine Learning,"Python, Flask, API Development",Backend Developer,93
+Arjun Reddy,Male,M.Sc Data Science,Machine Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,61
+Pooja Patel,Female,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",Frontend Developer,66
+Nikhil Reddy,Male,B.Com Computers,Deep Learning,"Python, Flask, API Development",AI Engineer,76
+Ritika Sharma,Female,M.Sc Data Science,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",AI Engineer,91
+Sousanya Patel,Female,B.Tech ECE,Deep Learning,"HTML, CSS, JavaScript, React",ML Engineer,60
+Kiran,Male,B.Tech ECE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Scientist,83
+Ritika Singh,Female,B.Tech IT,NLP,"HTML, CSS, JavaScript, React",Backend Developer,96
+Surya Sharma,Male,M.Sc Data Science,Data Analytics,"SQL, Power BI, Excel",Cybersecurity Analyst,79
+Vamsi Das,Male,B.Sc Statistics,Data Analytics,"TensorFlow, Keras, PyTorch",Backend Developer,79
+Divya Singh,Female,MCA,Web Development,"HTML, CSS, JavaScript, React",ML Engineer,64
+Deepika Reddy,Female,B.Tech CSE,Computer Vision,"NLTK, SpaCy, TextBlob",Data Scientist,97
+Mounika Kumar,Female,MCA,Machine Learning,"Python, Flask, API Development",Data Scientist,73
+Priya Singh,Female,B.Sc Statistics,NLP,"Python, Pandas, NumPy, Matplotlib",Data Scientist,79
+Ritika Das,Female,B.Tech IT,Machine Learning,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,82
+Rohit Sharma,Male,B.Com Computers,Data Analytics,"OpenCV, CNN, Deep Learning",ML Engineer,98
+Sneha,Female,B.Tech CSE,Cybersecurity,"Python, Flask, API Development",Backend Developer,77
+Divya Kumar,Female,B.Tech IT,Computer Vision,"NLTK, SpaCy, TextBlob",Data Analyst,62
+Anusha Kumar,Female,B.Sc Statistics,NLP,"OpenCV, CNN, Deep Learning",Backend Developer,78
+Swati Maheshwari,Male,B.Sc Statistics,Cybersecurity,"SQL, Power BI, Excel",ML Engineer,65
+Priya Das,Female,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,83
+Rahul Singh,Male,B.Tech CSE,Data Analytics,"Python, Flask, API Development",Data Analyst,88
+Nisha Reddy,Female,B.Com Computers,Data Analytics,"Python, Flask, API Development",ML Engineer,95
+Aditya Das,Male,B.Tech IT,NLP,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,62
+Rohit Reddy,Male,M.Sc Data Science,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Scientist,89
+Suma,Female,M.Sc Data Science,Machine Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,78
+Ritika Das,Female,B.Tech CSE,Web Development,"NLTK, SpaCy, TextBlob",Data Scientist,74
+Nikhil Das,Male,B.Tech CSE,NLP,"Python, Flask, API Development",Cybersecurity Analyst,70
+Navya Patel,Female,B.Tech IT,Computer Vision,"NLTK, SpaCy, TextBlob",ML Engineer,95
+Shreya Kumar,Female,B.Tech ECE,Data Analytics,"SQL, Power BI, Excel",Frontend Developer,93
+Sindhu Patel,Female,B.Tech IT,Cybersecurity,"OpenCV, CNN, Deep Learning",Frontend Developer,81
+Teja Singh,Male,B.Com Computers,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,68
+Joshi Sharma,Female,B.Tech IT,Deep Learning,"SQL, Power BI, Excel",Data Analyst,82
+Deepika Patel,Female,B.Tech IT,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,95
+Teja Patel,Male,B.Tech IT,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,60
+Shreya Singh,Female,B.Sc Statistics,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,86
+Kiran,Male,M.Sc Data Science,Machine Learning,"Data Visualization, Tableau, Plotly",AI Engineer,88
+Anjali Sharma,Female,MCA,Data Analytics,"OpenCV, CNN, Deep Learning",Backend Developer,95
+Yamini Kumar,Female,B.Sc Statistics,NLP,"Data Visualization, Tableau, Plotly",Data Analyst,69
+Rohit Das,Male,B.Tech IT,Deep Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,93
+Yamini Kumar,Female,B.Tech ECE,Data Analytics,"OpenCV, CNN, Deep Learning",Frontend Developer,97
+Priya Reddy,Female,MCA,Web Development,"OpenCV, CNN, Deep Learning",Data Scientist,70
+Teja Sharma,Male,B.Com Computers,Cybersecurity,"NLTK, SpaCy, TextBlob",ML Engineer,82
+Navya Gayatri Reddy,Female,B.Tech ECE,Web Development,"Data Visualization, Tableau, Plotly",AI Engineer,79
+Surya Kumar,Male,M.Sc Data Science,NLP,"OpenCV, CNN, Deep Learning",Data Analyst,69
+Joshi Patel,Female,M.Sc Data Science,Cybersecurity,"NLTK, SpaCy, TextBlob",Frontend Developer,81
+Manoj Singh,Male,M.Sc Data Science,Machine Learning,"SQL, Power BI, Excel",AI Engineer,84
+Charisma Kumar,Female,B.Tech ECE,NLP,"Python, Pandas, NumPy, Matplotlib",Data Analyst,77
+Mounika Das,Female,B.Tech IT,NLP,"OpenCV, CNN, Deep Learning",Data Analyst,72
+Sneha Das,Female,B.Tech IT,Cybersecurity,"HTML, CSS, JavaScript, React",ML Engineer,83
+Manoj Sharma,Male,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Data Analyst,94
+Nikhil Singh,Male,B.Tech IT,Computer Vision,"Python, Flask, API Development",Data Scientist,98
+Rohit,Male,B.Tech IT,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,97
+Anjali Patel,Female,M.Sc Data Science,Web Development,"NLTK, SpaCy, TextBlob",Data Scientist,71
+Anjali Sharma,Female,B.Tech CSE,Web Development,"Python, Flask, API Development",Data Analyst,62
+Meghana Patel,Female,B.Com Computers,Data Analytics,"SQL, Power BI, Excel",Data Scientist,83
+Pooja,Female,B.Com Computers,NLP,"SQL, Power BI, Excel",Backend Developer,95
+Sindhu Reddy,Female,M.Sc Data Science,Cybersecurity,"SQL, Power BI, Excel",Data Scientist,67
+Bala Singh,Female,B.Tech ECE,Cybersecurity,"Python, Flask, API Development",AI Engineer,89
+Sousanya Sharma,Female,B.Tech CSE,Machine Learning,"SQL, Power BI, Excel",AI Engineer,78
+Bhavya Singh,Female,B.Sc Statistics,Cybersecurity,"TensorFlow, Keras, PyTorch",Data Analyst,93
+Nisha Sharma,Female,B.Tech CSE,NLP,"OpenCV, CNN, Deep Learning",Frontend Developer,87
+Anjali Reddy,Female,M.Sc Data Science,Web Development,"TensorFlow, Keras, PyTorch",Frontend Developer,73
+Anusha Kumar,Female,MCA,Machine Learning,"Python, Flask, API Development",Data Scientist,77
+Teja Das,Male,B.Tech ECE,NLP,"TensorFlow, Keras, PyTorch",ML Engineer,67
+Shreya Kumar,Female,B.Tech ECE,Computer Vision,"Python, Pandas, NumPy, Matplotlib",AI Engineer,73
+Navya Gayatri Reddy,Female,B.Tech CSE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,74
+Kiran Sharma,Male,B.Tech ECE,Computer Vision,"OpenCV, CNN, Deep Learning",ML Engineer,88
+Nisha Patel,Female,B.Tech ECE,Web Development,"SQL, Power BI, Excel",AI Engineer,86
+Lavanya Patel,Female,B.Com Computers,NLP,"SQL, Power BI, Excel",Data Analyst,74
+Surya Patel,Male,B.Sc Statistics,Computer Vision,"OpenCV, CNN, Deep Learning",Data Analyst,76
+Rahul Singh,Male,B.Tech CSE,Computer Vision,"SQL, Power BI, Excel",Frontend Developer,99
+Shreya Reddy,Female,M.Sc Data Science,Machine Learning,"SQL, Power BI, Excel",Frontend Developer,64
+Teja Das,Male,B.Sc Statistics,Web Development,"OpenCV, CNN, Deep Learning",Data Scientist,75
+Preethi Sharma,Female,B.Com Computers,Web Development,"Python, Flask, API Development",Backend Developer,83
+Bala Singh,Female,B.Tech ECE,Web Development,"SQL, Power BI, Excel",AI Engineer,85
+Priya Patel,Female,B.Tech IT,Machine Learning,"SQL, Power BI, Excel",Data Analyst,67
+Joshi Das,Female,M.Sc Data Science,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,89
+Vamsi Patel,Male,B.Com Computers,Web Development,"SQL, Power BI, Excel",ML Engineer,99
+Mounika Das,Female,B.Sc Statistics,Machine Learning,"SQL, Power BI, Excel",Data Analyst,66
+Harsha Kumar,Male,M.Sc Data Science,Cybersecurity,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,80
+Rahul Das,Male,B.Tech CSE,NLP,"TensorFlow, Keras, PyTorch",AI Engineer,82
+Harsha Singh,Male,MCA,NLP,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,86
+Vamsi Singh,Male,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",Data Scientist,92
+Deepika,Female,B.Com Computers,Cybersecurity,"OpenCV, CNN, Deep Learning",AI Engineer,70
+Sai,Male,M.Sc Data Science,Deep Learning,"OpenCV, CNN, Deep Learning",ML Engineer,71
+Kiran Patel,Male,B.Sc Statistics,Machine Learning,"HTML, CSS, JavaScript, React",Data Analyst,73
+Srivali Reddy,Female,MCA,Web Development,"OpenCV, CNN, Deep Learning",AI Engineer,60
+Likitha Singh,Female,B.Tech CSE,Cybersecurity,"TensorFlow, Keras, PyTorch",Frontend Developer,73
+Priya Kumar,Female,B.Sc Statistics,Machine Learning,"Python, Pandas, NumPy, Matplotlib",ML Engineer,80
+Sai Patel,Male,B.Tech IT,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Data Scientist,66
+Suma Kumar,Female,MCA,Machine Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,68
+Meghana Sharma,Female,B.Tech CSE,Computer Vision,"Python, Flask, API Development",ML Engineer,69
+Anjali Reddy,Female,B.Tech ECE,Machine Learning,"HTML, CSS, JavaScript, React",Frontend Developer,90
+Bala Singh,Female,B.Sc Statistics,NLP,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,83
+Joshi Patel,Female,MCA,Computer Vision,"SQL, Power BI, Excel",Data Scientist,89
+Harini Sharma,Female,B.Tech CSE,Computer Vision,"SQL, Power BI, Excel",ML Engineer,91
+Varsha Sharma,Female,B.Sc Statistics,Machine Learning,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,72
+Mounika Patel,Female,B.Com Computers,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,68
+Navya Das,Female,MCA,Machine Learning,"OpenCV, CNN, Deep Learning",Backend Developer,73
+Aditya Patel,Male,B.Sc Statistics,Computer Vision,"Python, Flask, API Development",ML Engineer,85
+Deepika Singh,Female,B.Sc Statistics,Computer Vision,"SQL, Power BI, Excel",ML Engineer,90
+Krishna Das,Male,M.Sc Data Science,Deep Learning,"HTML, CSS, JavaScript, React",Backend Developer,60
+Shreya,Female,M.Sc Data Science,Cybersecurity,"NLTK, SpaCy, TextBlob",ML Engineer,80
+Sneha Sharma,Female,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",Frontend Developer,88
+Charisma Singh,Female,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,91
+Sandeep Reddy,Male,B.Tech IT,Computer Vision,"SQL, Power BI, Excel",Backend Developer,88
+Nikhil Kumar,Male,M.Sc Data Science,Data Analytics,"HTML, CSS, JavaScript, React",AI Engineer,79
+Teja Kumar,Male,B.Tech ECE,Computer Vision,"Data Visualization, Tableau, Plotly",AI Engineer,82
+Nisha Sharma,Female,B.Tech IT,Machine Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,79
+Bhavya Patel,Female,MCA,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Data Analyst,76
+Meghana,Female,M.Sc Data Science,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,96
+Vamsi Reddy,Male,B.Tech ECE,Cybersecurity,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,60
+Manoj Kumar,Male,B.Tech CSE,Web Development,"TensorFlow, Keras, PyTorch",ML Engineer,63
+Varsha Kumar,Female,B.Tech CSE,Deep Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,67
+Likitha Patel,Female,B.Com Computers,Machine Learning,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,92
+Teja Reddy,Male,B.Com Computers,Data Analytics,"Data Visualization, Tableau, Plotly",Frontend Developer,62
+Likitha Das,Female,B.Com Computers,Computer Vision,"SQL, Power BI, Excel",Data Scientist,84
+Anjali Kumar,Female,B.Com Computers,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,73
+Rohit Kumar,Male,B.Tech CSE,Data Analytics,"SQL, Power BI, Excel",ML Engineer,82
+Surya,Male,B.Tech ECE,Web Development,"Python, Pandas, NumPy, Matplotlib",ML Engineer,72
+Joshi Das,Female,M.Sc Data Science,Machine Learning,"OpenCV, CNN, Deep Learning",Frontend Developer,68
+Sindhu Kumar,Female,B.Tech IT,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,73
+Aditya Patel,Male,B.Sc Statistics,NLP,"OpenCV, CNN, Deep Learning",Data Analyst,91
+Srivali Patel,Female,MCA,Deep Learning,"SQL, Power BI, Excel",Data Scientist,78
+Ritika Das,Female,M.Sc Data Science,Web Development,"TensorFlow, Keras, PyTorch",AI Engineer,62
+Sousanya Reddy,Female,B.Sc Statistics,Machine Learning,"SQL, Power BI, Excel",ML Engineer,99
+Sandeep Patel,Male,MCA,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Backend Developer,69
+Sneha Singh,Female,B.Com Computers,Deep Learning,"HTML, CSS, JavaScript, React",Data Analyst,93
+Harini Sharma,Female,B.Com Computers,Data Analytics,"Python, Pandas, NumPy, Matplotlib",AI Engineer,87
+Divya Das,Female,B.Tech IT,NLP,"NLTK, SpaCy, TextBlob",AI Engineer,98
+Ritika Sharma,Female,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",Backend Developer,93
+Arjun Patel,Male,MCA,Computer Vision,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,80
+Ritika Reddy,Female,B.Com Computers,Machine Learning,"Data Visualization, Tableau, Plotly",Frontend Developer,72
+Lavanya Reddy,Female,B.Tech CSE,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Backend Developer,60
+Kiran Das,Male,MCA,Machine Learning,"TensorFlow, Keras, PyTorch",ML Engineer,70
+Harini Sharma,Female,MCA,Machine Learning,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,84
+Swati Maheshwari Patel,Male,B.Tech CSE,Web Development,"SQL, Power BI, Excel",Cybersecurity Analyst,98
+Sindhu,Female,B.Tech CSE,Deep Learning,"NLTK, SpaCy, TextBlob",Cybersecurity Analyst,98
+Sravani Sharma,Female,B.Tech CSE,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,63
+Sravani Kumar,Female,B.Tech IT,Web Development,"OpenCV, CNN, Deep Learning",AI Engineer,85
+Surya,Male,B.Tech ECE,Data Analytics,"Python, Flask, API Development",Data Analyst,68
+Vamsi Reddy,Male,B.Sc Statistics,Computer Vision,"NLTK, SpaCy, TextBlob",AI Engineer,97
+Kiran,Male,B.Tech IT,Web Development,"Data Visualization, Tableau, Plotly",Backend Developer,97
+Navya Sharma,Female,MCA,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,69
+Anjali Das,Female,B.Tech CSE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Data Scientist,77
+Harini Sharma,Female,B.Sc Statistics,Computer Vision,"OpenCV, CNN, Deep Learning",Backend Developer,74
+Shreya Kumar,Female,B.Tech IT,NLP,"SQL, Power BI, Excel",Frontend Developer,83
+Yamini Das,Female,B.Tech IT,Data Analytics,"NLTK, SpaCy, TextBlob",Backend Developer,94
+Varsha Singh,Female,B.Tech IT,NLP,"SQL, Power BI, Excel",AI Engineer,71
+Rahul Singh,Male,B.Tech CSE,Computer Vision,"Python, Flask, API Development",Data Scientist,61
+Sravani Patel,Female,B.Sc Statistics,Deep Learning,"TensorFlow, Keras, PyTorch",Backend Developer,73
+Mounika Das,Female,B.Tech CSE,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Scientist,65
+Sneha,Female,B.Tech ECE,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,97
+Anusha Sharma,Female,B.Tech IT,Cybersecurity,"SQL, Power BI, Excel",Data Analyst,95
+Sai,Male,B.Tech IT,Web Development,"SQL, Power BI, Excel",Frontend Developer,62
+Navya Singh,Female,B.Com Computers,Cybersecurity,"HTML, CSS, JavaScript, React",Data Analyst,72
+Ritika Sharma,Female,M.Sc Data Science,Machine Learning,"NLTK, SpaCy, TextBlob",Frontend Developer,75
+Anjali Patel,Female,MCA,Cybersecurity,"TensorFlow, Keras, PyTorch",Data Scientist,86
+Srivali Sharma,Female,MCA,Web Development,"NLTK, SpaCy, TextBlob",Frontend Developer,92
+Varsha Sharma,Female,B.Sc Statistics,Web Development,"SQL, Power BI, Excel",Cybersecurity Analyst,90
+Ritika Das,Female,B.Tech IT,Web Development,"Python, Flask, API Development",AI Engineer,73
+Keerthi Das,Female,B.Tech CSE,NLP,"NLTK, SpaCy, TextBlob",Data Analyst,77
+Ritika Reddy,Female,B.Sc Statistics,Deep Learning,"HTML, CSS, JavaScript, React",Frontend Developer,63
+Rahul,Male,B.Tech ECE,Cybersecurity,"OpenCV, CNN, Deep Learning",AI Engineer,88
+Suma Kumar,Female,B.Com Computers,Web Development,"Python, Flask, API Development",Cybersecurity Analyst,98
+Harini Kumar,Female,B.Tech IT,Web Development,"OpenCV, CNN, Deep Learning",Data Analyst,71
+Srivali Singh,Female,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Data Scientist,60
+Sindhu Reddy,Female,B.Tech CSE,Machine Learning,"NLTK, SpaCy, TextBlob",Backend Developer,82
+Keerthi Patel,Female,B.Tech IT,Machine Learning,"OpenCV, CNN, Deep Learning",Data Scientist,75
+Suma Reddy,Female,B.Com Computers,Machine Learning,"Python, Flask, API Development",Backend Developer,93
+Navya Patel,Female,B.Com Computers,Data Analytics,"Python, Flask, API Development",Backend Developer,92
+Sai Sharma,Male,MCA,NLP,"NLTK, SpaCy, TextBlob",Data Analyst,81
+Sindhu Sharma,Female,B.Tech ECE,Web Development,"SQL, Power BI, Excel",Frontend Developer,72
+Yamini Sharma,Female,B.Tech ECE,Machine Learning,"TensorFlow, Keras, PyTorch",Data Scientist,80
+Bhavya Reddy,Female,B.Tech CSE,Data Analytics,"TensorFlow, Keras, PyTorch",Data Scientist,63
+Yamini Singh,Female,B.Tech CSE,Deep Learning,"SQL, Power BI, Excel",Backend Developer,62
+Swati Maheshwari Singh,Male,B.Sc Statistics,Data Analytics,"TensorFlow, Keras, PyTorch",Backend Developer,62
+Surya Sharma,Male,M.Sc Data Science,Computer Vision,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,82
+Joshi,Female,B.Tech ECE,Data Analytics,"Python, Flask, API Development",AI Engineer,79
+Aditya Patel,Male,B.Sc Statistics,Web Development,"SQL, Power BI, Excel",Frontend Developer,81
+Navya,Female,MCA,Cybersecurity,"TensorFlow, Keras, PyTorch",Frontend Developer,76
+Rohit Singh,Male,B.Sc Statistics,Cybersecurity,"Data Visualization, Tableau, Plotly",Frontend Developer,84
+Likitha Das,Female,B.Tech IT,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Analyst,66
+Anjali Sharma,Female,B.Tech CSE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Analyst,75
+Mounika Das,Female,B.Tech IT,Web Development,"NLTK, SpaCy, TextBlob",Backend Developer,93
+Kiran,Male,B.Tech CSE,Cybersecurity,"TensorFlow, Keras, PyTorch",Frontend Developer,89
+Srivali Singh,Female,MCA,Web Development,"SQL, Power BI, Excel",Backend Developer,78
+Harini,Female,B.Com Computers,Computer Vision,"OpenCV, CNN, Deep Learning",Frontend Developer,99
+Navya Gayatri Singh,Female,MCA,Deep Learning,"Data Visualization, Tableau, Plotly",ML Engineer,95
+Anusha Sharma,Female,B.Tech CSE,Data Analytics,"TensorFlow, Keras, PyTorch",Frontend Developer,72
+Navya Das,Female,MCA,Data Analytics,"Data Visualization, Tableau, Plotly",Data Analyst,72
+Shreya Das,Female,B.Sc Statistics,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,98
+Navya Gayatri Patel,Female,M.Sc Data Science,NLP,"Python, Flask, API Development",Backend Developer,62
+Sneha Das,Female,B.Tech ECE,Deep Learning,"SQL, Power BI, Excel",Backend Developer,62
+Vikram Kumar,Male,B.Tech IT,Computer Vision,"Data Visualization, Tableau, Plotly",ML Engineer,97
+Divya Singh,Female,B.Tech CSE,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,93
+Bhavya Singh,Female,M.Sc Data Science,Computer Vision,"NLTK, SpaCy, TextBlob",Frontend Developer,99
+Rahul,Male,B.Com Computers,Data Analytics,"Data Visualization, Tableau, Plotly",AI Engineer,75
+Deepika,Female,M.Sc Data Science,Computer Vision,"SQL, Power BI, Excel",ML Engineer,80
+Yamini Patel,Female,B.Tech ECE,Deep Learning,"SQL, Power BI, Excel",Backend Developer,67
+Charisma Kumar,Female,B.Sc Statistics,Machine Learning,"TensorFlow, Keras, PyTorch",ML Engineer,91
+Preethi Kumar,Female,MCA,NLP,"SQL, Power BI, Excel",AI Engineer,92
+Priya,Female,B.Tech CSE,Computer Vision,"Python, Flask, API Development",Data Scientist,80
+Divya Patel,Female,B.Com Computers,Machine Learning,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,73
+Rahul Singh,Male,MCA,Machine Learning,"SQL, Power BI, Excel",Data Scientist,80
+Arjun Singh,Male,B.Tech CSE,Deep Learning,"TensorFlow, Keras, PyTorch",AI Engineer,67
+Nisha Sharma,Female,B.Sc Statistics,Web Development,"Data Visualization, Tableau, Plotly",Backend Developer,86
+Sneha Das,Female,B.Sc Statistics,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,81
+Divya,Female,B.Sc Statistics,Deep Learning,"SQL, Power BI, Excel",ML Engineer,60
+Lavanya Patel,Female,B.Com Computers,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Backend Developer,84
+Harsha Singh,Male,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Analyst,85
+Srivali,Female,MCA,Cybersecurity,"SQL, Power BI, Excel",Data Scientist,70
+Shreya Singh,Female,B.Tech CSE,Computer Vision,"HTML, CSS, JavaScript, React",Backend Developer,94
+Aditya Patel,Male,MCA,Machine Learning,"SQL, Power BI, Excel",Data Analyst,71
+Sousanya Reddy,Female,M.Sc Data Science,NLP,"TensorFlow, Keras, PyTorch",Backend Developer,88
+Teja Reddy,Male,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Backend Developer,80
+Vikram Sharma,Male,M.Sc Data Science,Deep Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,84
+Bala Sharma,Female,B.Com Computers,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Scientist,85
+Nisha Patel,Female,B.Sc Statistics,Computer Vision,"NLTK, SpaCy, TextBlob",AI Engineer,84
+Anusha Patel,Female,B.Tech ECE,Computer Vision,"Data Visualization, Tableau, Plotly",Data Analyst,64
+Shreya Kumar,Female,B.Tech IT,Computer Vision,"NLTK, SpaCy, TextBlob",Frontend Developer,83
+Suma Reddy,Female,MCA,Data Analytics,"NLTK, SpaCy, TextBlob",ML Engineer,61
+Yamini Reddy,Female,B.Com Computers,Machine Learning,"Python, Flask, API Development",Backend Developer,63
+Pooja Reddy,Female,B.Com Computers,Cybersecurity,"Data Visualization, Tableau, Plotly",ML Engineer,90
+Kiran Das,Male,MCA,Computer Vision,"HTML, CSS, JavaScript, React",Data Scientist,88
+Mounika Das,Female,B.Sc Statistics,Deep Learning,"Data Visualization, Tableau, Plotly",Data Analyst,84
+Nisha Sharma,Female,B.Sc Statistics,Cybersecurity,"Data Visualization, Tableau, Plotly",Frontend Developer,75
+Deepika,Female,B.Tech CSE,Computer Vision,"OpenCV, CNN, Deep Learning",AI Engineer,96
+Rahul Das,Male,B.Tech CSE,Cybersecurity,"HTML, CSS, JavaScript, React",Data Analyst,74
+Bala Singh,Female,B.Tech CSE,Computer Vision,"SQL, Power BI, Excel",AI Engineer,62
+Divya Reddy,Female,M.Sc Data Science,Deep Learning,"HTML, CSS, JavaScript, React",Data Analyst,60
+Divya Reddy,Female,B.Com Computers,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,66
+Srivali Das,Female,B.Tech ECE,Deep Learning,"OpenCV, CNN, Deep Learning",Frontend Developer,65
+Sneha Sharma,Female,B.Tech IT,Deep Learning,"OpenCV, CNN, Deep Learning",Backend Developer,69
+Bhavya Kumar,Female,MCA,Deep Learning,"OpenCV, CNN, Deep Learning",AI Engineer,84
+Shreya Singh,Female,B.Com Computers,Deep Learning,"Data Visualization, Tableau, Plotly",Data Analyst,96
+Harini Sharma,Female,B.Tech ECE,Cybersecurity,"SQL, Power BI, Excel",Data Scientist,75
+Yamini Reddy,Female,M.Sc Data Science,NLP,"SQL, Power BI, Excel",Data Analyst,94
+Navya Gayatri Patel,Female,M.Sc Data Science,Machine Learning,"Data Visualization, Tableau, Plotly",Data Scientist,73
+Navya Sharma,Female,B.Tech ECE,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",AI Engineer,87
+Keerthi Reddy,Female,B.Com Computers,NLP,"TensorFlow, Keras, PyTorch",Data Scientist,67
+Suma Sharma,Female,B.Sc Statistics,Web Development,"SQL, Power BI, Excel",AI Engineer,82
+Yamini,Female,B.Tech CSE,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Analyst,99
+Rohit,Male,MCA,NLP,"TensorFlow, Keras, PyTorch",Backend Developer,88
+Keerthi Sharma,Female,MCA,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,60
+Aditya,Male,M.Sc Data Science,Deep Learning,"SQL, Power BI, Excel",Frontend Developer,98
+Suma Singh,Female,B.Tech IT,Web Development,"Python, Pandas, NumPy, Matplotlib",ML Engineer,85
+Priya Singh,Female,B.Tech CSE,Web Development,"Data Visualization, Tableau, Plotly",ML Engineer,77
+Preethi Patel,Female,B.Tech CSE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,77
+Preethi Kumar,Female,B.Sc Statistics,Data Analytics,"Python, Flask, API Development",AI Engineer,64
+Sousanya Patel,Female,M.Sc Data Science,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Analyst,80
+Sneha Patel,Female,B.Tech CSE,Deep Learning,"SQL, Power BI, Excel",Data Analyst,98
+Deepika,Female,M.Sc Data Science,Machine Learning,"OpenCV, CNN, Deep Learning",Data Analyst,65
+Rahul Patel,Male,B.Sc Statistics,Cybersecurity,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,69
+Suma Kumar,Female,MCA,Cybersecurity,"Data Visualization, Tableau, Plotly",Data Analyst,87
+Likitha Das,Female,B.Sc Statistics,NLP,"Data Visualization, Tableau, Plotly",Data Analyst,70
+Vamsi Patel,Male,B.Tech CSE,Web Development,"Python, Flask, API Development",Cybersecurity Analyst,82
+Kiran Kumar,Male,B.Tech CSE,NLP,"Python, Flask, API Development",Frontend Developer,60
+Divya Sharma,Female,B.Com Computers,Web Development,"SQL, Power BI, Excel",Data Scientist,60
+Bhavya Sharma,Female,MCA,Deep Learning,"SQL, Power BI, Excel",ML Engineer,65
+Likitha,Female,B.Com Computers,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,93
+Harsha Sharma,Male,MCA,Deep Learning,"NLTK, SpaCy, TextBlob",Data Analyst,72
+Rohit Kumar,Male,B.Tech CSE,Machine Learning,"OpenCV, CNN, Deep Learning",Data Scientist,70
+Sandeep Reddy,Male,B.Tech CSE,Data Analytics,"OpenCV, CNN, Deep Learning",Data Scientist,71
+Teja Das,Male,M.Sc Data Science,NLP,"TensorFlow, Keras, PyTorch",Data Scientist,82
+Manoj Das,Male,B.Com Computers,Web Development,"SQL, Power BI, Excel",Frontend Developer,97
+Nisha Das,Female,B.Tech ECE,Data Analytics,"OpenCV, CNN, Deep Learning",ML Engineer,63
+Anusha,Female,B.Com Computers,Deep Learning,"Python, Pandas, NumPy, Matplotlib",ML Engineer,89
+Nisha Patel,Female,B.Com Computers,Machine Learning,"Data Visualization, Tableau, Plotly",Data Scientist,84
+Sindhu Sharma,Female,B.Tech IT,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Analyst,65
+Sindhu Sharma,Female,B.Sc Statistics,Computer Vision,"OpenCV, CNN, Deep Learning",Cybersecurity Analyst,78
+Lavanya Singh,Female,B.Tech IT,Computer Vision,"OpenCV, CNN, Deep Learning",Data Scientist,68
+Likitha Singh,Female,B.Sc Statistics,Web Development,"Python, Flask, API Development",Frontend Developer,60
+Kiran Kumar,Male,B.Tech IT,NLP,"TensorFlow, Keras, PyTorch",Frontend Developer,82
+Anusha Kumar,Female,B.Tech ECE,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Backend Developer,95
+Lavanya,Female,B.Tech IT,NLP,"Data Visualization, Tableau, Plotly",Backend Developer,88
+Divya,Female,M.Sc Data Science,Computer Vision,"OpenCV, CNN, Deep Learning",AI Engineer,70
+Anusha Singh,Female,B.Tech CSE,Computer Vision,"HTML, CSS, JavaScript, React",Data Analyst,91
+Ritika,Female,B.Tech IT,Machine Learning,"TensorFlow, Keras, PyTorch",ML Engineer,90
+Likitha Patel,Female,M.Sc Data Science,Web Development,"Python, Pandas, NumPy, Matplotlib",AI Engineer,83
+Charisma,Female,B.Tech IT,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",ML Engineer,92
+Varsha Singh,Female,B.Tech CSE,Data Analytics,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,79
+Keerthi Das,Female,B.Sc Statistics,Web Development,"Python, Pandas, NumPy, Matplotlib",AI Engineer,67
+Nikhil Kumar,Male,M.Sc Data Science,Deep Learning,"HTML, CSS, JavaScript, React",Backend Developer,87
+Shreya Singh,Female,MCA,Data Analytics,"Python, Pandas, NumPy, Matplotlib",Data Analyst,98
+Bhavya Singh,Female,B.Sc Statistics,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Scientist,98
+Yamini Reddy,Female,B.Com Computers,Data Analytics,"SQL, Power BI, Excel",Backend Developer,74
+Harini Patel,Female,B.Tech IT,Deep Learning,"Python, Pandas, NumPy, Matplotlib",AI Engineer,82
+Krishna Patel,Male,B.Tech IT,Web Development,"Data Visualization, Tableau, Plotly",Data Analyst,88
+Divya,Female,B.Sc Statistics,Computer Vision,"SQL, Power BI, Excel",Data Scientist,91
+Bala Das,Female,B.Tech ECE,Deep Learning,"TensorFlow, Keras, PyTorch",AI Engineer,97
+Lavanya Kumar,Female,B.Tech IT,Machine Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,73
+Srivali Kumar,Female,B.Tech ECE,Deep Learning,"OpenCV, CNN, Deep Learning",AI Engineer,82
+Arjun Singh,Male,B.Com Computers,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,80
+Swati Maheshwari Sharma,Male,B.Com Computers,Deep Learning,"NLTK, SpaCy, TextBlob",Frontend Developer,99
+Meghana Singh,Female,B.Tech CSE,Machine Learning,"SQL, Power BI, Excel",Backend Developer,71
+Sandeep Sharma,Male,B.Sc Statistics,Machine Learning,"Python, Flask, API Development",Data Analyst,70
+Shreya,Female,B.Tech CSE,Cybersecurity,"OpenCV, CNN, Deep Learning",ML Engineer,72
+Teja Kumar,Male,B.Sc Statistics,Data Analytics,"NLTK, SpaCy, TextBlob",Frontend Developer,76
+Pooja Das,Female,M.Sc Data Science,NLP,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,87
+Preethi,Female,B.Tech ECE,Web Development,"Python, Pandas, NumPy, Matplotlib",Data Analyst,85
+Bhavya Singh,Female,MCA,Computer Vision,"NLTK, SpaCy, TextBlob",Frontend Developer,88
+Sai Reddy,Male,B.Tech IT,NLP,"OpenCV, CNN, Deep Learning",Backend Developer,85
+Nisha,Female,B.Com Computers,Cybersecurity,"Data Visualization, Tableau, Plotly",Cybersecurity Analyst,96
+Meghana Das,Female,MCA,Deep Learning,"Data Visualization, Tableau, Plotly",ML Engineer,69
+Surya,Male,B.Tech ECE,NLP,"SQL, Power BI, Excel",Frontend Developer,82
+Bhavya,Female,B.Tech IT,Web Development,"Data Visualization, Tableau, Plotly",Frontend Developer,85
+Kiran Kumar,Male,B.Sc Statistics,Cybersecurity,"TensorFlow, Keras, PyTorch",Data Analyst,90
+Divya Sharma,Female,B.Sc Statistics,Deep Learning,"SQL, Power BI, Excel",ML Engineer,92
+Kiran Patel,Male,MCA,Deep Learning,"Data Visualization, Tableau, Plotly",Data Scientist,81
+Keerthi,Female,MCA,Web Development,"Data Visualization, Tableau, Plotly",Data Scientist,74
+Vikram Singh,Male,B.Sc Statistics,Cybersecurity,"Python, Pandas, NumPy, Matplotlib",Frontend Developer,81
+Yamini,Female,MCA,Web Development,"Python, Pandas, NumPy, Matplotlib",AI Engineer,85
+Deepika Patel,Female,M.Sc Data Science,Machine Learning,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,71
+Sneha Patel,Female,B.Com Computers,NLP,"Python, Pandas, NumPy, Matplotlib",Backend Developer,98
+Keerthi Sharma,Female,B.Com Computers,Computer Vision,"Python, Pandas, NumPy, Matplotlib",ML Engineer,72
+Surya Singh,Male,B.Com Computers,Computer Vision,"Python, Pandas, NumPy, Matplotlib",Data Scientist,79
+Deepika Das,Female,B.Sc Statistics,Computer Vision,"TensorFlow, Keras, PyTorch",ML Engineer,71
+Pooja Reddy,Female,MCA,Data Analytics,"Python, Flask, API Development",ML Engineer,92
+Anjali Singh,Female,B.Com Computers,NLP,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,62
+Harini Patel,Female,B.Tech ECE,Machine Learning,"HTML, CSS, JavaScript, React",Backend Developer,85
+Srivali Reddy,Female,B.Tech IT,Deep Learning,"HTML, CSS, JavaScript, React",Data Scientist,65
+Charisma Das,Female,B.Sc Statistics,Machine Learning,"OpenCV, CNN, Deep Learning",Data Analyst,98
+Arjun Patel,Male,MCA,Machine Learning,"OpenCV, CNN, Deep Learning",Backend Developer,94
+Anusha Kumar,Female,B.Tech ECE,Computer Vision,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,90
+Varsha Das,Female,MCA,Machine Learning,"SQL, Power BI, Excel",ML Engineer,94
+Keerthi Singh,Female,B.Tech CSE,Computer Vision,"Data Visualization, Tableau, Plotly",Frontend Developer,93
+Sneha Das,Female,B.Sc Statistics,Cybersecurity,"OpenCV, CNN, Deep Learning",ML Engineer,72
+Pooja Patel,Female,B.Tech ECE,Data Analytics,"Python, Flask, API Development",AI Engineer,99
+Bala,Female,MCA,Deep Learning,"Data Visualization, Tableau, Plotly",Frontend Developer,74
+Ritika Sharma,Female,M.Sc Data Science,Machine Learning,"Python, Flask, API Development",Frontend Developer,76
+Deepika Singh,Female,B.Sc Statistics,Deep Learning,"Data Visualization, Tableau, Plotly",Frontend Developer,64
+Divya Patel,Female,B.Sc Statistics,Deep Learning,"TensorFlow, Keras, PyTorch",Frontend Developer,76
+Nisha Singh,Female,B.Tech IT,Data Analytics,"HTML, CSS, JavaScript, React",Data Scientist,68
+Joshi Kumar,Female,MCA,NLP,"TensorFlow, Keras, PyTorch",ML Engineer,91
+Harini Kumar,Female,MCA,Computer Vision,"OpenCV, CNN, Deep Learning",Frontend Developer,97
+Nisha Singh,Female,B.Sc Statistics,NLP,"HTML, CSS, JavaScript, React",Frontend Developer,65
+Rahul Kumar,Male,B.Tech ECE,Web Development,"TensorFlow, Keras, PyTorch",AI Engineer,81
+Manoj Patel,Male,B.Sc Statistics,NLP,"HTML, CSS, JavaScript, React",AI Engineer,95
+Srivali Das,Female,M.Sc Data Science,Cybersecurity,"NLTK, SpaCy, TextBlob",AI Engineer,81
+Varsha Kumar,Female,B.Tech ECE,NLP,"SQL, Power BI, Excel",ML Engineer,73
+Bala Reddy,Female,MCA,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Analyst,90
+Teja Singh,Male,B.Com Computers,Web Development,"TensorFlow, Keras, PyTorch",AI Engineer,89
+Nisha Singh,Female,M.Sc Data Science,NLP,"TensorFlow, Keras, PyTorch",Cybersecurity Analyst,66
+Likitha Patel,Female,M.Sc Data Science,NLP,"Data Visualization, Tableau, Plotly",Frontend Developer,76
+Divya,Female,B.Tech IT,Cybersecurity,"HTML, CSS, JavaScript, React",Backend Developer,87
+Mounika Sharma,Female,B.Tech ECE,Web Development,"NLTK, SpaCy, TextBlob",AI Engineer,85
+Sai,Male,B.Tech IT,Web Development,"SQL, Power BI, Excel",Frontend Developer,62
+Anusha Patel,Female,B.Com Computers,Web Development,"Python, Flask, API Development",Frontend Developer,70
+Bala Patel,Female,MCA,Cybersecurity,"TensorFlow, Keras, PyTorch",Frontend Developer,77
+Deepika Kumar,Female,B.Tech CSE,Cybersecurity,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,71
+Surya,Male,B.Tech ECE,Computer Vision,"SQL, Power BI, Excel",AI Engineer,74
+Anusha Reddy,Female,MCA,Web Development,"OpenCV, CNN, Deep Learning",AI Engineer,85
+Teja Patel,Male,M.Sc Data Science,Deep Learning,"Python, Pandas, NumPy, Matplotlib",Data Analyst,85
+Rahul,Male,M.Sc Data Science,Computer Vision,"OpenCV, CNN, Deep Learning",AI Engineer,85
+Navya,Female,M.Sc Data Science,Web Development,"Python, Flask, API Development",Data Analyst,73
+Harini Singh,Female,MCA,Cybersecurity,"OpenCV, CNN, Deep Learning",Data Scientist,64
+Manoj Patel,Male,B.Sc Statistics,Machine Learning,"SQL, Power BI, Excel",Data Analyst,74
+Vikram Patel,Male,B.Com Computers,Machine Learning,"Python, Pandas, NumPy, Matplotlib",ML Engineer,81
+Mounika Sharma,Female,B.Tech CSE,NLP,"HTML, CSS, JavaScript, React",ML Engineer,71
+Sai Reddy,Male,MCA,Computer Vision,"OpenCV, CNN, Deep Learning",AI Engineer,94
+Deepika Reddy,Female,MCA,Cybersecurity,"Python, Flask, API Development",Data Scientist,77
+Priya Singh,Female,B.Tech CSE,NLP,"HTML, CSS, JavaScript, React",Backend Developer,74
+Swati Maheshwari Das,Male,M.Sc Data Science,Machine Learning,"SQL, Power BI, Excel",Cybersecurity Analyst,65
+Srivali,Female,B.Tech ECE,Computer Vision,"Data Visualization, Tableau, Plotly",AI Engineer,91
+Likitha Kumar,Female,MCA,Data Analytics,"HTML, CSS, JavaScript, React",Backend Developer,82
+Teja Reddy,Male,M.Sc Data Science,Web Development,"Data Visualization, Tableau, Plotly",AI Engineer,69
+Nikhil Sharma,Male,B.Tech ECE,Machine Learning,"NLTK, SpaCy, TextBlob",Backend Developer,98
+Rahul Kumar,Male,M.Sc Data Science,Web Development,"Data Visualization, Tableau, Plotly",Data Scientist,97
+Rohit Patel,Male,B.Tech IT,Cybersecurity,"Python, Flask, API Development",Backend Developer,60
+Vamsi Reddy,Male,B.Tech ECE,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Data Scientist,87
+Meghana Singh,Female,B.Tech CSE,Cybersecurity,"TensorFlow, Keras, PyTorch",Backend Developer,89
+Kiran,Male,MCA,Machine Learning,"TensorFlow, Keras, PyTorch",ML Engineer,64
+Sai Kumar,Male,B.Com Computers,Data Analytics,"Data Visualization, Tableau, Plotly",Backend Developer,83
+Ritika Kumar,Female,B.Sc Statistics,Machine Learning,"SQL, Power BI, Excel",Data Scientist,89
+Bala Kumar,Female,M.Sc Data Science,Deep Learning,"HTML, CSS, JavaScript, React",Cybersecurity Analyst,89
+Keerthi Sharma,Female,B.Com Computers,Cybersecurity,"NLTK, SpaCy, TextBlob",Backend Developer,94
+Preethi Patel,Female,B.Com Computers,Machine Learning,"NLTK, SpaCy, TextBlob",AI Engineer,73
+Priya Patel,Female,B.Com Computers,Computer Vision,"HTML, CSS, JavaScript, React",ML Engineer,96
+Swati Maheshwari Kumar,Male,MCA,Machine Learning,"Python, Pandas, NumPy, Matplotlib",Cybersecurity Analyst,84
+Harsha Reddy,Male,B.Com Computers,NLP,"NLTK, SpaCy, TextBlob",Data Scientist,67
+Krishna,Male,MCA,NLP,"HTML, CSS, JavaScript, React",AI Engineer,81
+Sousanya Reddy,Female,B.Tech IT,Computer Vision,"Python, Flask, API Development",Data Analyst,74
+Charisma Singh,Female,B.Tech CSE,NLP,"Python, Flask, API Development",ML Engineer,80
+Preethi Kumar,Female,B.Tech ECE,Machine Learning,"SQL, Power BI, Excel",ML Engineer,66
+Preethi Singh,Female,B.Tech ECE,NLP,"SQL, Power BI, Excel",Data Analyst,74
+Sousanya Das,Female,M.Sc Data Science,NLP,"OpenCV, CNN, Deep Learning",Data Scientist,70
+Harini Sharma,Female,B.Tech ECE,NLP,"Python, Pandas, NumPy, Matplotlib",Data Analyst,80
+Sneha Reddy,Female,B.Tech ECE,Machine Learning,"Python, Flask, API Development",Backend Developer,71
+Sravani Patel,Female,B.Sc Statistics,Computer Vision,"Python, Flask, API Development",Cybersecurity Analyst,83
+Sindhu,Female,B.Tech CSE,NLP,"Python, Pandas, NumPy, Matplotlib",Backend Developer,61
